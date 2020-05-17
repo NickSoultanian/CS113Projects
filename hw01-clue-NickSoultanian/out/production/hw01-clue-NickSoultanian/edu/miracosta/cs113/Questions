@@ -1,0 +1,17 @@
+RandomClue.java
+How often do you get a solution in fewer than 20 guesses? Does this change depending on the theory you test (1, 2, 3)?
+    RandomClue.java almost never got the answer in less than 20 guesses. It does not change! Because RandomClue
+    randomly picks numbers from the allotted number slots for each variable. No matter the theory RandomClue will
+    Randomly get a lot of wrong guesses.
+
+What is good or bad about this strategy?
+    It can be good for guessing really large theory, in the hope of getting the answer quicker. However, it is bad
+    because if you don't get the answer quickly it will ultimately take just as long or longer than brute forcing.
+
+DetectiveJill.java
+How often do you get a solution in fewer than 20 guesses? Does this change depending on the theory you test (1, 2, 3)?
+    I got the solution every time in under 20 guesses. No matter the theory brute force always came in clutch.
+What is good or bad about this strategy?
+    The bad thing about brute forcing is that it will always test every single possible outcome. Depending on the
+    outcome and how large it can be; it could take hours or even days. For small outcomes it is reliable and dependable
+    to get the job done and in a timely manner.
