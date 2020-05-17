@@ -1,0 +1,3086 @@
+*ACCT 101 Practical Accounting
+-ONLINE
+1002    ONL                           HAJIHA H           4.0      ONLINE
+1003    ONL                           DISKIN D           4.0      ONLINE
+3089    ONL                           STAFF              4.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+1015    M         6 pm–7:50 pm        KRUPINSKI L        4.0     OC 4801
+& ONL    +2 hours weekly online.                          ONLINE
+1004    TTh       3:30 pm–5:20 pm     KRUPINSKI L        4.0     OC 4801
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+3090    W         9 am–10:50 am       LOEDEL D           4.0     SAN 303
+& ONL    +3 hours 5 minutes weekly online.                ONLINE
+*ACCT 104 Payroll Accounting
+-OCEANSIDE CAMPUS                                                    Room #
+2672    F         9 am–12 pm          HARTLEY P          3.0     OC 4801
+*ACCT 145 Individual Income Tax
+-ONLINE
+1016    ONL                           DESCHAMPS M        4.0      ONLINE
+1005    ONL                           DESCHAMPS M        4.0      ONLINE
+*ACCT 146 Taxation of Business Entities
+-ONLINE
+2888    ONL                           STAFF              4.0      ONLINE
+*ACCT 148 Computer Accounting
+-ONLINE
+1017    ONL                           HARTLEY P          3.0      ONLINE
+1011    ONL                           STAFF              3.0      ONLINE
+2868    ONL                           AGATHA R           3.0      ONLINE
+*ACCT 149 IRS Volunteer Preparation
+-ONLINE
+3450    ONL                           STAFF              2.0      ONLINE
+*ACCT 158 Business Mathematics
+-ONLINE
+1014    ONL                           LOEDEL D           3.0      ONLINE
+2759    ONL                           LOEDEL D           3.0      ONLINE
+*ACCT 201 Financial Accounting
+-ONLINE
+2578    ONL                           STAFF              4.0      ONLINE
+1953    ONL                           BRYANT G           4.0      ONLINE
+1972    ONL                           LOEDEL D           4.0      ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1018    W         6 pm–7:50 pm        FUSCO J            4.0      OC 4801
+& ONL    +2 hours weekly online.                           ONLINE
+1019    MW        9 am–10:50 am       CARSTENSEN E       4.0      OC 4801
+1006    W         7 am–8:50 am        CHAMBERLAIN        4.0      OC 4801
+& ONL    +2 hours weekly online.                           ONLINE
+1008    TTh      11 am–12:50 pm       STAFF              4.0      OC 4801
+1013    MW        1:30 pm–3:20 pm     LOEDEL D           4.0      OC 4801
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1007    TTh       9 am–10:50 am       CARSTENSEN E       4.0      SAN 303
+*ACCT 202 Managerial Accounting
+-ONLINE
+2473    ONL                           VERA S             4.0       ONLINE
+2673    ONL                           AGATHA R           4.0       ONLINE
+2176    ONL                           TACCONE A          4.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1010    T         6 pm–8:50 pm        ETEMAD S           4.0      OC 4801
+& ONL    +1 hour weekly online.                            ONLINE
+1020    TTh       9 am–10:50 am       DESCHAMPS M        4.0      OC 4801
+1009    MW       11 am–12:50 pm       CARSTENSEN E       4.0      OC 4801
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1012    TTh      11 am–12:50 pm       CARSTENSEN E       4.0      SAN 303
+*ACCT 299 Occupational Cooperative Work Experience
+2651    ARRANGED                      STAFF              3.0
+*ADM 100 Introduction to the Administration of Justice
+-ONLINE
+2341    ONL                           WHITBREAD B        3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1024    F         8:30 am–12:20 pm    NYMAN A            3.0      OC 3103
+1022    MW       10:30 am–11:45 am DIAZ A                3.0     OC 4809
+1021    TTh      10:30 am–11:45 am CONNOLLY P            3.0     OC 4809
+1023    W         6 pm–8:50 pm        CONNOLLY P         3.0     OC 4809
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1025    TTh       9:15 am–10:50 am    NYMAN A            3.0      SAN 201
+*ADM 107 Introduction to Computer/Digital Forensics
+-ONLINE
+2468    ONL                           MEHLHOFF D         3.0       ONLINE
+*ADM 200 Concepts of Criminal Law
+-OCEANSIDE CAMPUS                                                     Room #
+2506    Th        6 pm–9 pm           WOLFE B            3.0     OC 4809
+*ADM 210 Criminal Procedures
+-OCEANSIDE CAMPUS                                                     Room #
+1827    TTh      12 pm–1:15 pm        CONNOLLY P         3.0     OC 4809
+*ADM 220 Criminal Evidence
+-OCEANSIDE CAMPUS                                                     Room #
+2317    T         6 pm–8:50 pm        MANNING T          3.0     OC 4809
+*ADM 230 Policing in a Diverse and Multicultural Society
+-OCEANSIDE CAMPUS                                                     Room #
+2164    MW       12 pm–1:15 pm        WARNER-SAADAT      3.0     OC 4809
+*ADM 270 Crime and Delinquency
+-OCEANSIDE CAMPUS                                                     Room #
+1994    M         6 pm–9:10 pm        WARFIELD M         3.0     OC 4809
+*ADM 280 Criminal Investigation
+-OCEANSIDE CAMPUS                                                     Room #
+2165    MW        9 am–10:15 am       DIAZ A             3.0     OC 4809
+*ADM 299 Occupational Cooperative Work Experience
+3027    ARRANGED                      STAFF              3.0
+*ACE 149 Introduction to Academic Writing for Students from
+-OCEANSIDE CAMPUS                                                     Room #
+2054    T         8:30 am–10:20 am LLOYD JONES           4.0      OC 4612
+& Th      8:30 am–10:20 am                                OC 3511
+& ONL    +1 hour weekly online.                            ONLINE
+2056    T        12 pm–3:05 pm        RODRIGUEZ-CA       4.0      OC 4612
+& Th     12 pm–3:05 pm                                    OC 3511
+2365    T         6 pm–9:05 pm        RODRIGUEZ-CA       4.0      OC 4612
+& Th      6 pm–9:05 pm                                    OC 3511
+*ACE 150 Introduction to College Composition for Students from
+-OCEANSIDE CAMPUS                                                     Room #
+2060    T         8:30 am–10:20 am PARKER T              4.0      OC 3511
+& Th      8:30 am–10:20 am                                OC 4612
+& ONL    +1 hour weekly online.                            ONLINE
+2058    T        12 pm–2:20 pm        LACKKATY S         4.0      OC 3511
+& Th     12 pm–2:20 pm                                    OC 4612
+*ACE 150 Introduction to College Composition for Students from
+-OCEANSIDE CAMPUS                                                Room #
+2062    M         1:30 pm–3:50 pm     CAVAZZI B     4.0     OC 3511
+&W        1:30 pm–3:50 pm                           OC 4612
+& ONL    +1 hour weekly online.                      ONLINE
+2064    T         6 pm–9:05 pm        LACKKATY S    4.0     OC 3511
+& Th      6 pm–9:05 pm                              OC 4612
+*ANTH 101 Biological Anthropology
+-ONLINE
+1034    ONL                           CHAN K        3.0      ONLINE
+2222    ONL                           CHAN K        3.0      ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+1037    MW        7:30 am–8:45 am     STAFF         3.0     OC 3103
+1026    F         8 am–11:50 am       DIOKNO J      3.0     OC 3205
+2405    MW       12 pm–1:15 pm        MILLER L      3.0     OC 3104
+2403    TTh       1:30 pm–2:45 pm     CHAN K        3.0     OC 3601
+1028    MW        4:30 pm–5:45 pm     TUCKER SADE   3.0     OC 3103
+1029    W         6 pm–8:50 pm        DIOKNO J      3.0     OC 3205
+-SAN ELIJO CAMPUS IN CARDIFF                                     Room #
+2404    MW        9 am–10:15 am       TUCKER SADE   3.0     SAN 302
+1027    TTh       1:30 pm–2:45 pm     TUCKER SADE   3.0     SAN 302
+*ANTH 101L Biological Anthropology Laboratory
+-OCEANSIDE CAMPUS                                                Room #
+2014    F        12:15 pm–3:15 pm     FAUST A       1.0     OC 3205
+1032    M         6 pm–9:10 pm        FAUST A       1.0     OC 3205
+-SAN ELIJO CAMPUS IN CARDIFF                                     Room #
+1033    Th        6 pm–9 pm           FAUST A       1.0     SAN 302
+*ANTH 102 Cultural Anthropology
+-ONLINE
+1035    ONL                           DORNER M      3.0      ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+2752    MW        9 am–10:15 am       MILLER L      3.0     OC 4016
+1031    TTh      12 pm–1:15 pm        DINCKAN G     3.0     OC 3601
+1030    T         6 pm–8:50 pm        DAWLEY W      3.0     OC 3103
+-SAN ELIJO CAMPUS IN CARDIFF                                     Room #
+2463    MW       10:30 am–11:45 am    TUCKER SADE   3.0     SAN 302
+2161    TTh       3 pm–4:15 pm        TUCKER SADE   3.0     SAN 302
+*ANTH 103 Introduction to Archaeology
+-OCEANSIDE CAMPUS                                                Room #
+1036    TTh      10:30 am–11:45 am    MILLER L      3.0     OC 3601
+*ANTH 105 Evolution of Human Behavior
+-OCEANSIDE CAMPUS                                                Room #
+2520    TTh       9 am–10:15 am       MILLER L      3.0     OC 3601
+*ART 100 Drawing and Composition
+-OCEANSIDE CAMPUS                                                     Room #
+1076    TTh       8 am–11 am          GOELTZENLEUC       3.0      OC 2242
+1044    MW        8 am–11 am          FACEY M            3.0      OC 2242
+1094    TTh      11:10 am–2:10 pm     RAMOS D            3.0      OC 2242
+1042    MW       11:10 am–2:10 pm     EGGLETON J         3.0      OC 2242
+1038    MW        2:20 pm–5:20 pm     BULIS R            3.0      OC 2242
+2563    TTh       6:30 pm–9:30 pm     WHITMAN E          3.0      OC 2242
+3493    TTh       2:20 pm–5:20 pm     EGGLETON X         3.0      OC 2242
+1089    MW        6:30 pm–9:30 pm     QUESNELL I         3.0      OC 2242
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1040    MW        9:30 am–12:30 pm    RENSHAW A          3.0      SAN 205
+1046    TTh       2 pm–5 pm           WEST C             3.0      SAN 205
+*ART 101 Design and Color
+-OCEANSIDE CAMPUS                                                     Room #
+1048    MW        8 am–11 am          WHITE D            3.0      OC 2272
+1052    TTh      11:10 am–2:10 pm     O’CAIN A           3.0      OC 2272
+3461    MW        2:20 pm–5:20 pm     LO J               3.0      OC 2272
+1091    TTh       3 pm–6 pm           O’CAIN A           3.0      OC 2272
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1054    MW        2 pm–5 pm           GRAY-ADAMS G       3.0      SAN 206
+*ART 103 3D Design
+-OCEANSIDE CAMPUS                                                     Room #
+3118    TTh       9:30 am–12:30 pm    MARTINEZ M         3.0      OC 2101
+1056    MW        1 pm–4 pm           WHITING M          3.0      OC 2101
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+2422    TTh      10 am–1 pm           NERI G             3.0      SAN 206
+*ART 104 Artists & Designers Now
+-OCEANSIDE CAMPUS                                                     Room #
+2685    W         6:15 pm–9:05 pm     O’CAIN A           3.0      OC 2304
+*ART 157 Art Orientation
+-ONLINE
+1101    ONL                           GOELTZENLEUC       3.0       ONLINE
+3460    ONL                           EGGLETON J         3.0       ONLINE
+1093    ONL                           EGGLETON X         3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1078    MW        7:30 am–8:45 am     CARRUBBA J         3.0      OC 2304
+1058    TTh       8 am–9:15 am        DUFFIELD K         3.0      OC 2304
+1059    MW       10:30 am–11:45 am    CLUFF L            3.0      OC 2304
+1100    M         6:15 pm–9:25 pm     BULIS R            3.0      OC 2304
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1080    TTh      12 pm–1:15 pm        CLUFF L            3.0     SAN T102
+3451    TTh       1:30 pm–3:05 pm     CARRUBBA J         3.0      CLC 104
+*ART 158 Traditional Arts of Africa, Oceania, and the Americas
+-OCEANSIDE CAMPUS                                                     Room #
+1060    MW        1:30 pm–2:45 pm     CLUFF L            3.0      OC 2304
+*ART 202 Painting: Acrylic
+-SAN ELIJO CAMPUS IN CARDIFF                                    Room #
+2214    MW        2 pm–5:30 pm        RAMOS D       3.0    SAN 205
+*ART 203 Life Drawing I
+-OCEANSIDE CAMPUS                                               Room #
+1098    TTh       3 pm–6 pm           LLEWELLYN C   3.0    OC 2269
+-SAN ELIJO CAMPUS IN CARDIFF                                    Room #
+1061    MW        6 pm–9:30 pm        MUSGRAVE A    3.0    SAN 205
+*ART 204 Painting I: Oils
+-OCEANSIDE CAMPUS                                               Room #
+2072    MW       11:10 am–2:10 pm     NEMOUR L      3.0    OC 2269
+*ART 205 Painting: Watercolor
+-OCEANSIDE CAMPUS                                               Room #
+1063    F         9 am–3:30 pm        ADAMS D       3.0    OC 2242
+-SAN ELIJO CAMPUS IN CARDIFF                                    Room #
+3124    F         9 am–4:35 pm        NUGENT K      3.0    SAN 205
+*ART 206 Mixed Media Figure Studies I
+-OCEANSIDE CAMPUS                                               Room #
+3120    TTh      10:30 am–2 pm        NEMOUR L      3.0    OC 2269
+*ART 207 Beginning Photography
+-OCEANSIDE CAMPUS                                               Room #
+1065    MW        8 am–11 am          STAFF         3.0    OC 2269
+1879    F         9 am–3:30 pm        PRESTON J     3.0    OC 2272
+1096    MW        3 pm–6 pm           STAFF         3.0    OC 2304
+*ART 208 Advanced Photography
+-OCEANSIDE CAMPUS                                               Room #
+2458    TTh       6:30 pm–9:30 pm     STAFF         3.0    OC 2272
+*ART 211 Mixed Media Figure Studies II
+-OCEANSIDE CAMPUS                                               Room #
+2428    TTh      10:30 am–2 pm        NEMOUR L      3.0    OC 2269
+*ART 212 Painting II: Acrylics
+-SAN ELIJO CAMPUS IN CARDIFF                                   Room #
+2323    MW        2 pm–5:30 pm        RAMOS D       3.0   SAN 205
+*ART 213 Life Drawing II
+-OCEANSIDE CAMPUS                                              Room #
+2325    TTh       3 pm–6 pm           LLEWELLYN C   3.0   OC 2269
+-SAN ELIJO CAMPUS IN CARDIFF                                   Room #
+2327    MW        6 pm–9:30 pm        MUSGRAVE A    3.0   SAN 205
+*ART 214 Painting II: Oils
+-OCEANSIDE CAMPUS                                              Room #
+2424    MW        3 pm–6 pm           NEMOUR L      3.0   OC 2269
+*ART 215 Painting II: Watercolor
+-SAN ELIJO CAMPUS IN CARDIFF                                   Room #
+3471    F         9 am–4:35 pm        NUGENT K      3.0   SAN 205
+-OCEANSIDE CAMPUS                                              Room #
+2329    F         9 am–3:30 pm        ADAMS D       3.0   OC 2242
+*ART 217 Figure Sculpture
+-SAN ELIJO CAMPUS IN CARDIFF                                   Room #
+3122    MW       10 am–1:30 pm        RAMOS D       3.0   SAN 206
+*ART 223 Woodworking and Furniture Design I
+-OCEANSIDE CAMPUS                                              Room #
+1081    MW        6 pm–9:30 pm        BEHLING E     3.0   OC 2101
+*ART 224 Woodworking and Furniture Design II
+-OCEANSIDE CAMPUS                                              Room #
+2289    MW        6 pm–9:30 pm        BEHLING E     3.0   OC 2101
+*ART 225 Ceramics I
+-OCEANSIDE CAMPUS                                              Room #
+2789    MW        9:30 am–12:30 pm    HAYASHI Y     3.0   OC 2104
+1067    MW        1:30 pm–4:30 pm     HAYASHI Y     3.0   OC 2104
+-SAN ELIJO CAMPUS IN CARDIFF                                   Room #
+1083    TTh       2:15 pm–5:15 pm     GRAY R        3.0   SAN 206
+*ART 226 Ceramics II
+-SAN ELIJO CAMPUS IN CARDIFF                                  Room #
+2791    TTh       2:15 pm–5:15 pm     GRAY R        3.0   SAN 206
+*ART 227 Ceramics III
+-SAN ELIJO CAMPUS IN CARDIFF                                  Room #
+2793    TTh       2:15 pm–5:15 pm     GRAY R        3.0   SAN 206
+*ART 229 Woodworking and Furniture Design III
+-OCEANSIDE CAMPUS                                             Room #
+2688    MW        6 pm–9:30 pm        BEHLING E     3.0   OC 2101
+*ART 230 Installation Art
+-OCEANSIDE CAMPUS                                             Room #
+2702    MW        9 am–12 pm          NERI G        3.0   OC 2306
+*ART 232 Video Art
+-OCEANSIDE CAMPUS                                             Room #
+2704    MW        1 pm–4 pm           NERI G        3.0   OC 2306
+*ART 239 Woodworking and Furniture Design IV
+-OCEANSIDE CAMPUS                                             Room #
+2690    MW        6 pm–9:30 pm        BEHLING E     3.0   OC 2101
+*ART 241 Painting: Acrylic III
+-SAN ELIJO CAMPUS IN CARDIFF                                  Room #
+2613    MW        2 pm–5:30 pm        RAMOS D       3.0   SAN 205
+*ART 242 Painting: Watercolor III
+-OCEANSIDE CAMPUS                                             Room #
+2615    F         9 am–3:30 pm        ADAMS D       3.0   OC 2242
+-SAN ELIJO CAMPUS IN CARDIFF                                  Room #
+3473    F         9 am–4:35 pm        NUGENT K      3.0   SAN 205
+*ART 244 Digital Media for the Visual Artist
+-OCEANSIDE CAMPUS                                             Room #
+2598    TTh       2:20 pm–4:40 pm     KHORSHID L    3.0   OC 2306
+*ART 251 Digital Photography
+-ONLINE
+2461    ONL                             FERRERIA C         3.0       ONLINE
+2197    ONL                             ANDERSON S         3.0       ONLINE
+-OCEANSIDE CAMPUS                                                       Room #
+1069    TTh        8 am–11 am           KHORSHID L         3.0      OC 2272
+1087    MW        11:10 am–2:10 pm      STAFF              3.0      OC 2272
+*ART 253 Applied Digital Photography
+-OCEANSIDE CAMPUS                                                       Room #
+1940    MW         6:30 pm–8:50 pm      QUINTENZ-FIE       3.0      OC 2272
+*ART 254 Understanding and Appreciating the Photographic Image
+-ONLINE
+1079    ONL                             ANDERSON S         3.0       ONLINE
+-SAN ELIJO CAMPUS IN CARDIFF                                            Room #
+1939    MW         9 am–10:15 am        FERRERIA C         3.0     SAN T102
+*ART 258 Ancient to Gothic Art
+-ONLINE
+1072    ONL                             CONTRERAS J        3.0       ONLINE
+2597    ONL                             CONTRERAS J        3.0       ONLINE
+-OCEANSIDE CAMPUS                                                       Room #
+1071    TTh        9:30 am–10:45 am     DUFFIELD K         3.0      OC 2304
+*ART 259 History of Renaissance to Modern Art
+-ONLINE
+2283    ONL                             MCDERMOTT T        3.0       ONLINE
+2284    ONL                             MCDERMOTT T        3.0       ONLINE
+-OCEANSIDE CAMPUS                                                       Room #
+1074    TTh       11 am–12:15 pm        CONTRERAS J        3.0      OC 2304
+1073    MW        12 pm–1:15 pm         CARRUBBA J         3.0      OC 2304
+*ART 260 History of Modern Art
+-OCEANSIDE CAMPUS                                                       Room #
+2684    MW         9 am–10:15 am        CLUFF L            3.0      OC 2304
+1075    TTh       12:30 pm–1:45 pm      MULLER G           3.0      OC 2304
+*ART 261 Mixed Media Figure Studies III
+-OCEANSIDE CAMPUS                                                       Room #
+2686    TTh       10:30 am–2 pm         NEMOUR L           3.0      OC 2269
+*ART 263 Life Drawing III
+-OCEANSIDE CAMPUS                                                     Room #
+2694    TTh       3 pm–6 pm          LLEWELLYN C         3.0      OC 2269
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+2698    MW        6 pm–9:30 pm       MUSGRAVE A          3.0      SAN 205
+*ART 264 Painting III: Oils
+-OCEANSIDE CAMPUS                                                     Room #
+2700    MW        3 pm–6 pm          NEMOUR L            3.0      OC 2269
+*ART 270 History and Theory of Museum and Gallery Exhibition
+-ONLINE
+3468    ONL                          CLUFF L             3.0       ONLINE
+*ART 299 Occupational Cooperative Work Experience
+3028    ARRANGED                     STAFF               3.0
+*ASTR 101 Descriptive Astronomy
+-ONLINE
+1104    ONL                          FRENCH R            3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1102    MW       12 pm–1:15 pm       FRENCH R            3.0      OC 4526
+2406    TTh       1:30 pm–2:45 pm    FRENCH R            3.0      OC 4526
+1103    M         6 pm–9:10 pm       FRENCH R            3.0      OC 4529
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1105    T         6 pm–8:50 pm       STAFF               3.0      SAN 502
+*ASTR 101L Descriptive Astronomy Laboratory
+-OCEANSIDE CAMPUS                                                     Room #
+1106    T         7 pm–9:50 pm       GABLER C            1.0      OC 4529
+1107    W         7 pm–9:50 pm       HIRANO C            1.0      OC 4529
+*ASTR 120 Life in the Universe
+-OCEANSIDE CAMPUS                                                     Room #
+1108    MW        1:30 pm–2:45 pm    FRENCH R            3.0      OC 4526
+*ATHL 102 Intercollegiate Volleyball, Women
+-OCEANSIDE CAMPUS                                                  Room #
+2309    Daily    11:30 am–1:35 pm     MUSCAT C         3.5     OC GYM
+*ATHL 117 Basketball Competition
+-OCEANSIDE CAMPUS                                                  Room #
+2041    Daily     1:45 pm–3:15 pm     HARRIS K         1.0     OC GYM
+2040    Daily     4 pm–5:30 pm        CONAHAN P        1.0     OC GYM
+*ATHL 171 Intercollegiate Basketball, Men/Women
+-OCEANSIDE CAMPUS                                                  Room #
+2043    Daily     1:45 pm–3:45 pm     HARRIS K         3.5     OC GYM
+2042    Daily     4 pm–6 pm           CONAHAN P        3.5     OC GYM
+*ATHL 188 Intercollegiate Soccer, Men/Women
+2045    Daily    12:55 pm–3 pm        BARRAGAN M       3.5     OC FIELD
+2044    Daily     3 pm–5:05 pm        ZIMMERMAN F      3.5     OC FIELD
+*AUTO 102 Preventive Maintenance and Engine Performance
+-OCEANSIDE CAMPUS                                                  Room #
+1111    TTh      11:10 am–2:10 pm     KATSON P         4.0     OC 4001
+1113    ONL                           KATSON/GUIMOND 4.0         ONLINE
+&T        2:20 pm–5:45 pm                              OC 4001
+*AUTO 130 Basic Engine Performance
+-OCEANSIDE CAMPUS                                                  Room #
+1109    S         9 am–12:25 pm       GUIMOND K        2.0     OC 4001
+1115    M         1 pm–4:05 pm        VAIL S           2.0     OC 4001
+*AUTO 135 Auto Electronic Fundamentals
+-OCEANSIDE CAMPUS                                                  Room #
+1117    MW       11:10 am–2:10 pm     WILLIAMS A       4.0     OC 4001
+3452    MW        6 pm–9 pm           RICHER J         4.0     OC 4001
+*AUTO 140 Automotive Engine Technology
+-OCEANSIDE CAMPUS                                                  Room #
+1119    MW        6 pm–9 pm           GUIMOND K        4.0     OC 4001
+*AUTO 141 Automotive Engine Performance and Drivability
+-OCEANSIDE CAMPUS                                                        Room #
+1121    TTh       8 am–11 am           KATSON P            4.0       OC 4016
+*AUTO 155 Manual Transmissions and Transaxles
+-OCEANSIDE CAMPUS                                                        Room #
+1123    TTh       6 pm–9 pm            GENACK C            4.0       OC 4001
+*AUTO 160 Automotive Suspension, Steering, and Alignment
+-OCEANSIDE CAMPUS                                                        Room #
+1125    TTh       8 am–11 am           VAIL S              4.0       OC 4010
+1127    MW        6 pm–9 pm            WILLIAMS A          4.0       OC 4010
+*AUTO 161 Automotive Brake Service and Repair
+-OCEANSIDE CAMPUS                                                        Room #
+1129    MW        8 am–11 am           WILLIAMS A          4.0       OC 4010
+2760    TTh       6 pm–9 pm            NEUBAUER E          4.0       OC 4016
+*AUTO 200 Automotive Hybrid and Alternative Fuel Vehicles
+-OCEANSIDE CAMPUS                                                        Room #
+3336    MW        8:30 am–10:50 am     VAIL S              4.0       OC 4010
+*AUTO 205 Advanced Automotive Reconditioning and Detailing
+-OCEANSIDE CAMPUS                                                        Room #
+2719    TTh       6 pm–9 pm            KATSON P            4.0       OC 4010
+*AUTO 299 Occupational Cooperative Work Experience
+2652    ARRANGED                       STAFF               3.0
+*BIO 102 Introductory Biology: Ecology and Environmental Biology
+-OCEANSIDE CAMPUS                                                        Room #
+2708    MW        9 am–10:15 am        WEST J              4.0       OC 3516
+&W       10:30 am–1:20 pm                                    OC 4901
+1134    TTh      12:30 pm–1:45 pm      WEST J              4.0       OC 4903
+& Th      2 pm–5 pm                                          OC 4901
+*BIO 102 Introductory Biology: Ecology and Environmental Biology
+-SAN ELIJO CAMPUS IN CARDIFF                                               Room #
+2166      MW       10:25 am–11:40 am STILLINGER D            4.0       SAN 401
+&W       12 pm–2:50 pm                                       SAN 402
+*BIO 105 Introductory Biology: Biotechnology in Society
+-ONLINE
+1164      ONL                            STAFF               3.0        ONLINE
+-OCEANSIDE CAMPUS                                                          Room #
+2706      TTh       9:45 am–11:20 am     STAFF               3.0       OC 3606
+3126      MW        1:30 pm–2:45 pm      STAFF               3.0       OC T307
+-ONLINE
+1174      ONL                            STAFF               3.0        ONLINE
+*BIO 107 Introductory Biology: Marine Biology
+-OCEANSIDE CAMPUS                                                          Room #
+1136      MW        9 am–10:15 am        SEPULVEDA J         4.0       OC 3609
+&M       10:30 am–1:30 pm                                    OC 4522
+1156      TTh       9 am–10:15 am        SEPULVEDA J         4.0       OC 3516
+&T       10:30 am–1:20 pm                                    OC 4522
+*BIO 108 Introductory Biology: Ecology of the Oceans
+-ONLINE
+2707      ONL                            SEPULVEDA J         3.0        ONLINE
+1179      ONL                            SEPULVEDA J         3.0        ONLINE
+*BIO 110 Introductory Biology: Preparation for Pre-Health Professions
+-OCEANSIDE CAMPUS                                                          Room #
+1920      TTh       7:30 am–8:45 am      HULL S              4.0       OC 3606
+&T        9:10 am–12 pm                                      OC 4903
+2172      MW        7:30 am–8:45 am      MARBEY D            4.0       OC 3516
+&W        9:10 am–12 pm                                      OC 4903
+1918      F         8:50 am–11:55 am     WALKER T            4.0       OC 3606
+&F        1 pm–4:05 pm                                       OC 4903
+2229      MW       12 pm–1:15 pm         LEE M               4.0       OC 3608
+&W        1:45 pm–4:35 pm                                    OC 4903
+2540      TTh       4 pm–5:15 pm         PAGE B              4.0       OC 3608
+& Th      5:40 pm–8:40 pm                                    OC 4903
+1829      MW        5:30 pm–6:45 pm      FLEMING T           4.0       OC 3516
+&W        7 pm–9:50 pm                                       OC 4903
+2174      ONL                            IHARA J             4.0        ONLINE
+& Th      2 pm–5 pm                                          OC 4903
+1831      ONL                            HULL S              4.0        ONLINE
+&M        6:15 pm–9:15 pm                                    OC 4903
+-SAN ELIJO CAMPUS IN CARDIFF                                               Room #
+2223      F         9 am–12:05 pm        STAFF               4.0       SAN 401
+&F        1 pm–4:05 pm                                       SAN 402
+2012      TTh      10:30 am–11:45 am     STAFF               4.0       SAN 401
+&T       12 pm–2:50 pm                                       SAN 402
+*BIO 111 Introductory Biology: Preparation for Pre-Health Professions
+-OCEANSIDE CAMPUS                                                    Room #
+1132      S         9 am–12:05 pm      PAGE B           3.0     OC 3606
+1131      TTh       1:30 pm–2:45 pm    CLARK R          3.0     OC T307
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1133      TTh       9 am–10:15 am      LEE M            3.0      SAN 401
+*BIO 111L Introductory Biology: Preparation for Pre-Health Professions
+-OCEANSIDE CAMPUS                                                    Room #
+2079      T         3:15 pm–6:05 pm    MARBEY D         1.0     OC 4903
+*BIO 190 Survey of Human Musculoskeletal System
+-OCEANSIDE CAMPUS                                                    Room #
+1165      TTh       6 pm–8:05 pm       THOMFORD J       1.0     OC 4901
+*BIO 202 Foundations of Biology: Evolution, Biodiversity, and
+-OCEANSIDE CAMPUS                                                    Room #
+1966      TTh       7:30 am–8:45 am    WEST J           4.0     OC 3201
+&T        9 am–11:50 am                               OC 4901
+1142      TTh      12 pm–1:15 pm       IHARA J          4.0     OC 3606
+&T        1:50 pm–4:40 pm                             OC 4901
+2542      MW        1:05 pm–2:20 pm    IHARA J          4.0     OC 3606
+&W        2:45 pm–5:35 pm                             OC 4901
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1138      MW        8:50 am–10:05 am   CASTLE J         4.0      SAN 401
+&M       10:25 am–1:25 pm                             SAN 402
+*BIO 204 Foundations of Biology: Biochemistry, Cell Biology,
+-OCEANSIDE CAMPUS                                                    Room #
+1140      MW        7:30 am–8:45 am    BAILEY S         4.0     OC 3101
+&M        9 am–12 pm                                  OC 4050
+2710      TTh      12 pm–1:15 pm       BAILEY S         4.0     OC 3102
+& Th      1:30 pm–4:30 pm                             OC 4050
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+2168      TTh       1:30 pm–2:45 pm    GEKAKIS N        4.0      SAN 401
+& Th      3 pm–6 pm                                   SAN 402
+*BIO 210 Human Anatomy
+-OCEANSIDE CAMPUS                                                    Room #
+1144    TTh       7:30 am–8:20 am        HAUGSNESS WH      4.0   OC 3516
+& TTh     8:45 am–11:45 am                               OC 4523
+1168    MW        7:30 am–8:20 am        THOMPSON S        4.0   OC 3606
+& MW      8:45 am–11:45 am                               OC 4523
+1160    MW       12 pm–12:50 pm          LIEVENSE L        4.0   OC 3606
+& MW      1:15 pm–4:15 pm                                OC 4523
+1146    TTh      12:15 pm–1:05 pm        TIFFANY B         4.0   OC 3607
+& TTh     1:20 pm–4:20 pm                                OC 4523
+1968    TTh       5 pm–5:50 pm           MYERS J           4.0   OC 3516
+& TTh     6:15 pm–9:15 pm                                OC 4523
+1148    MW        5 pm–5:50 pm           CLARK R           4.0   OC 3606
+& MW      6:15 pm–9:15 pm                                OC 4523
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+2438    TTh       7 am–7:50 am           JONES C           4.0   SAN 401
+& TTh     8:10 am–11:10 am                               SAN 402
+1175    F         7:30 am–8:20 am        GATES K           4.0   SAN 401
+&S        8:30 am–9:20 am                                SAN 401
+&F        8:40 am–11:40 am                               SAN 402
+&S        9:30 am–12:30 pm                               SAN 402
+2291    TTh       5:30 pm–6:20 pm        OSBORNE P         4.0   SAN 401
+& TTh     6:45 pm–9:45 pm                                SAN 402
+*BIO 220 Human Physiology
+-OCEANSIDE CAMPUS                                                    Room #
+1970    TTh       7:30 am–8:45 am        CLARK R           4.0   OC 3608
+& Th      9:20 am–12:20 pm                               OC 4522
+1150    WF        7:30 am–8:45 am        PENTEK J          4.0   OC T430
+&F        9:20 am–12:20 pm                               OC 4522
+2231    MW        9 am–10:15 am          STAFF             4.0   OC 3608
+&W       10:30 am–1:20 pm                                OC 4522
+1177    F         9 am–12:05 pm          BURG M            4.0   OC 3608
+&F        1 pm–4:05 pm                                   OC 4522
+1154    TTh      12 pm–1:15 pm           THOMFORD/WOO 4.0        OC 3103
+& Th      1:40 pm–4:40 pm                                OC 4522
+1162    TTh       5 pm–6:15 pm           WOO M             4.0   OC 3606
+& Th      6:45 pm–9:45 pm                                OC 4522
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1170    MW        1:30 pm–2:45 pm        THOMFORD J        4.0   SAN 401
+&W        3:30 pm–6:20 pm                                SAN 402
+2440    MW        5:25 pm–6:40 pm        LINDGREN E        4.0   SAN 401
+&W        7 pm–9:50 pm                                   SAN 402
+*BIO 230 Introduction to Microbiology
+-OCEANSIDE CAMPUS                                                    Room #
+1158    TTh       9 am–10:15 am          KULKARNI H        5.0   OC 3608
+& TTh    10:45 am–1:45 pm                                OC 4514
+1172    MW        9 am–10:15 am          KULKARNI H        5.0   OC 3606
+& MW     10:45 am–1:45 pm                                OC 4514
+2600    TTh       1:30 pm–2:45 pm        TAMRAKAR S        5.0   OC 3608
+& TTh     3 pm–6 pm                                      OC 4514
+2212    MW        5 pm–6:15 pm           KLINGBEIL C       5.0   OC T307
+& MW      6:45 pm–9:45 pm                                OC 4514
+1152    TTh       5 pm–6:15 pm           SAUER F           5.0   OC T307
+& TTh     6:45 pm–9:45 pm                                OC 4514
+*BIO 299 Occupational Cooperative Work Experience
+3029     ARRANGED                       STAFF             3.0
+*BIO 340 Molecular Mechanisms of Disease
+-OCEANSIDE CAMPUS                                                      Room #
+3127     TTh      12 pm–1:15 pm         STAFF             3.0      OC 4526
+*BTEC 110 Basic Techniques in Biotechnology
+-OCEANSIDE CAMPUS                                                      Room #
+2530     MW       12:30 pm–4:20 pm      JUNCOSA B         4.0     OC 4050
+1180     MW        5:45 pm–9:35 pm      HOLLAND A         4.0     OC 4050
+*BTEC 120 Business and Regulatory Practices in Biotechnology
+-ONLINE
+1184     ONL                            MAROVICH L        3.0       ONLINE
+*BTEC 180 Biostatistics
+-OCEANSIDE CAMPUS                                                      Room #
+2218     MW        1:30 pm–2:45 pm      KINSETH M         4.0     OC 3608
+& ONL     +3 hours weekly online.                          ONLINE
+1182     TTh       5 pm–6:15 pm         GEBARA-LAMB       4.0      OC 3201
+& ONL     +3 hours weekly online.                          ONLINE
+*BTEC 203 Techniques in DNA Amplification
+-OCEANSIDE CAMPUS                                                      Room #
+3105     Th        5:45 pm–9:45 pm      TOTO P            1.0     OC 4050
+& ONL    +1 hour weekly online.                            ONLINE
+*BTEC 207 Techniques in Immunochemistry and ELISA
+-OCEANSIDE CAMPUS                                                      Room #
+2783     Th        5:45 pm–9:45 pm      TOTO P            1.0     OC 4050
+& ONL    +1 hour weekly online.                            ONLINE
+*BTEC 210 Data Analysis with Excel
+-ONLINE
+2256    ONL                           GEBARA-LAMB        1.0       ONLINE
+*BTEC 211 Technical Writing for Regulated Environments
+-ONLINE
+2683    ONL                           MAROVICH L         1.0       ONLINE
+*BTEC 221 Bioprocessing: Cell Culture and Scale-up
+-OCEANSIDE CAMPUS                                                     Room #
+2279    T         5:45 pm–9:45 pm     JUNCOSA B          1.5     OC 4050
+& ONL    +1 hour weekly online.                            ONLINE
+*BTEC 222 Bioprocessing: Large Scale Purification
+-OCEANSIDE CAMPUS                                                     Room #
+2785    T         5:45 pm–9:45 pm     STAFF              1.5     OC 4050
+& ONL    +1 hour weekly online.                            ONLINE
+*BTEC 299 Occupational Cooperative Work Experience
+2910    ARRANGED                      STAFF              3.
+*BTEC 310 Biomanufacturing Process Sciences
+-OCEANSIDE CAMPUS                                                     Room #
+3024    TTh       8:30 am–9:45 am     STAFF              5.0     OC 4050
+& TTh    10 am–1 pm                                      OC 4050
+*BTEC 330 Advanced Topics in Quality Assurance and Regulatory
+-OCEANSIDE CAMPUS                                                     Room #
+3026    MW        8 am–9:50 am        STAFF              4.0      OC T401
+*BTEC 360 Design of Biomanufacturing Facilities, Critical Utilities,
+-OCEANSIDE CAMPUS                                                     Room #
+3023    MW       10:30 am–11:45 am    STAFF              3.0     OC 3606
+*BTEC 410 Methods in Quality, Improvements, Investigations, and
+-OCEANSIDE CAMPUS                                                Room #
+3439    MW        9 am–10:50 am       STAFF         4.0      OC 7051
+*BTEC 460 Capstone Seminar in Biomanufacturing Technologies
+-OCEANSIDE CAMPUS                                                Room #
+3109    T         8 am–10:50 am       STAFF         3.0      OC 7051
+*BUS 117 Human Resources Management
+-ONLINE
+1198    ONL                           STAFF         3.0       ONLINE
+*BUS 120 Introduction to Business
+-ONLINE
+2830    ONL                           STAFF         3.0       ONLINE
+3064    ONL                           STAFF         3.0       ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+1185    TTh      10:30 am–11:45 am    STAFF         3.0      OC 4802
+1196    MW       10:30 am–11:45 am    STAFF         3.0      OC 4802
+-SAN ELIJO CAMPUS IN CARDIFF                                     Room #
+1190    TTh       9 am–10:15 am       STAFF         3.0      SAN 302
+1833    W         6 pm–8:50 pm        STAFF         3.0      SAN 302
+3065    MW       12:30 pm–1:45 pm     STAFF         3.0      CLC 106
+*BUS 130 Entrepreneurship and Small Business Management
+-ONLINE
+2358    ONL                           SHARP C       3.0       ONLINE
+1922    ONL                           SHARP C       3.0       ONLINE
+2179    ONL                           SHARP C       3.0       ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+1186    TTh       3 pm–4:15 pm        STAFF         3.0      OC 4802
+-SAN ELIJO CAMPUS IN CARDIFF                                     Room #
+1187    M         6 pm–9:10 pm        STAFF         3.0      SAN 302
+*BUS 131 Management Principles
+-ONLINE
+2205    ONL                           SHARP C       3.0       ONLINE
+*BUS 132 Marketing
+-ONLINE
+1923    ONL                           COLE A        3.0       ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+1188    MW       12 pm–1:15 pm        STAFF         3.0      OC 4802
+*BUS 134 Retail Management
+-ONLINE
+2364    ONL                          COLE A          3.0      ONLINE
+*BUS 136 Human Relations in Business
+-OCEANSIDE CAMPUS                                                Room #
+1834    MW       1:30 pm–2:45 pm     WADESON C       3.0     OC 4802
+2267    MW       4:30 pm–5:45 pm     WADESON C       3.0     OC 4801
+*BUS 138 Business Promotion
+-OCEANSIDE CAMPUS                                                Room #
+2343    TTh      4:30 pm–5:45 pm     SMITH S         3.0     OC 4802
+& ONL   +3 hours weekly online.                       ONLINE
+*BUS 140 Legal Environment of Business
+-ONLINE
+2344    ONL                          STAFF           3.0      ONLINE
+1197    ONL                          STAFF           3.0      ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+1189    TTh      9 am–10:15 am       SHARP C         3.0     OC 4802
+3066    TTh      1:30 pm–2:45 pm     STAFF           3.0     OC 4802
+2359    MW       3 pm–4:15 pm        STAFF           3.0     OC 4802
+-SAN ELIJO CAMPUS IN CARDIFF                                     Room #
+1193    MW       1:30 pm–2:45 pm     STAFF           3.0     SAN 302
+2579    T        6 pm–8:50 pm        STAFF           3.0     SAN 302
+*BUS 147 Personal Finance
+-ONLINE
+1195    ONL                          NGO A           3.0      ONLINE
+2180    ONL                          STAFF           3.0      ONLINE
+*BUS 204 Business Statistics
+-ONLINE
+2362    ONL                          NGO A           3.0      ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+2360    MW       1:30 pm–2:45 pm     NGO A           3.0   OC 4803A
+2361    MW       3 pm–4:15 pm        NGO A           3.0   OC 4803A
+3063    M        5:30 pm–8:40 pm     LINDSTROM Z     3.0   OC 4803B
+-SAN ELIJO CAMPUS IN CARDIFF                                     Room #
+2363    MW      10:30 am–11:45 am    NGO A           3.0     SAN 306
+*BUS 290 Business Communication
+-ONLINE
+2842    ONL                          STAFF           3.0      ONLINE
+*BUS 290 Business Communication (continued)
+-OCEANSIDE CAMPUS                                                     Room #
+1192    MW        9 am–10:15 am       STAFF              3.0     OC 4802
+1194    F         9 am–12 pm          STAFF              3.0     OC 4802
+1191    TTh      12 pm–1:15 pm        STAFF              3.0     OC 4802
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1199    TTh      10:30 am–11:45 am    STAFF              3.0      SAN 307
+*BUS 299 Occupational Cooperative Work Experience
+3031    ARRANGED                      STAFF              3.0
+*BOT 100 Beginning Keyboarding
+-ONLINE
+1900    ONL                           HERRICK J          1.0       ONLINE
+2346    ONL                           HERRICK J          1.0       ONLINE
+*BOT 101 Advanced Keyboarding
+-ONLINE
+1903    ONL                           HERRICK J          1.0       ONLINE
+*BOT 102 10-Key
+-ONLINE
+1904    ONL                           SAYBLE-THORN       1.0       ONLINE
+*BOT 110 Word Processing
+-ONLINE
+2886    ONL                           STRONG M           3.0       ONLINE
+*BOT 113 Basic Office Skills
+-ONLINE
+1902    ONL                           SEXTON D           1.0       ONLINE
+*BOT 116 Office Systems and Procedures
+-ONLINE
+2268    ONL                           STRONG M           3.0       ONLINE
+*BOT 117 Management Office Skills
+-ONLINE
+1901    ONL                           SEXTON D           1.0       ONLINE
+*BOT 299 Occupational Cooperative Work Experience
+3030    ARRANGED                      STAFF              3.0
+*CRLP 101 Introduction to Career Planning
+-ONLINE
+1203    ONL                          CAMPUZANO M        1.0       ONLINE
+1202    ONL                          CAMPUZANO M        1.0       ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+1201    TTh      1:30 pm–2:45 pm     ROSEN R            1.0      OC 4016
+*CHEM 103 Chemistry and Society: For Non-Science Majors
+-ONLINE
+3111    ONL                          MCCORKLE K         3.0       ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+3110    MW       1:30 pm–2:45 pm     MCCORKLE K         3.0      OC 4016
+*CHEM 103L Chemistry and Society: For Non-Science Majors (Lab)
+-OCEANSIDE CAMPUS                                                    Room #
+3113    M        3:10 pm–6:20 pm     MCCORKLE K         1.0     OC 4505
+*CHEM 112 Introductory General, Organic, and Biological Chemistry:
+-OCEANSIDE CAMPUS                                                    Room #
+2233    FS      10:15 am–11:30 am    STAFF              5.0      OC 3101
+& FS    11:45 am–2:45 pm                                OC 4505
+1220    TTh     12 pm–1:15 pm        GOUETH P           5.0     OC 3609
+& TTh    8:45 am–11:45 am                               OC 4505
+1222    MW       1:30 pm–2:45 pm     STAFF              5.0      OC T401
+& MW     3:30 pm–6:30 pm                                 OC 4501
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1232    TTh      5:30 pm–6:45 pm     STAFF              5.0     SAN T131
+& TTh    7 pm–10 pm                                     SAN 1001
+*CHEM 115 Introductory General Chemistry: For Allied Health Majors
+-OCEANSIDE CAMPUS                                                    Room #
+1204    TTh     12 pm–1:15 pm        STAFF              4.0     OC 3608
+&T       8:45 am–11:35 am                                OC 4501
+1206    MW       5:30 pm–6:45 pm     STAFF              4.0      OC 4016
+&M       7 pm–10 pm                                     OC 4505
+*CHEM 115 Introductory General Chemistry: For Allied Health Majors
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+2191     F         8 am–11:05 am       ASSADERAGHI      4.0     SAN T131
+&F       11:45 am–2:50 pm                              SAN 1001
+*CHEM 116 Introductory Organic and Biological Chemistry: For Allied
+-OCEANSIDE CAMPUS                                                    Room #
+1208     TTh       1:30 pm–2:45 pm     NGUYEN T         4.0      OC 3606
+&T        3:10 pm–6 pm                                  OC 4501
+*CHEM 140 Preparation for General Chemistry: For Science Majors
+-OCEANSIDE CAMPUS                                                    Room #
+2603     TTh       7:25 am–8:40 am     STAFF            4.0      OC 3609
+& Th      8:50 am–11:50 am                              OC 4501
+2605     MW       12 pm–1:15 pm        MCCORKLE K       4.0      OC 3609
+&M        8:40 am–11:40 am                              OC 4505
+2607     TTh       1:30 pm–2:45 pm     STAFF            4.0      OC T413
+& Th      3:15 pm–6:15 pm                               OC 4501
+2609     MW        5:30 pm–6:45 pm     STAFF            4.0      OC 3608
+&W        7 pm–9:50 pm                                  OC 4505
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+2625     F         8 am–11:05 am       STAFF            4.0     SAN T101
+&F       11:45 am–2:50 pm                              SAN 1002
+2611     TTh       3:50 pm–5:25 pm     STAFF            4.0     SAN T131
+& Th     12 pm–3:35 pm                                 SAN 1002
+*CHEM 150 General Chemistry I: For Science Majors
+-OCEANSIDE CAMPUS                                                    Room #
+1838     MW        7:25 am–8:40 am     GOUETH P         5.0      OC 3609
+& MW      8:50 am–11:50 am                              OC 4501
+1212     MW       10:30 am–11:45 am    MCMAHON S        5.0      OC 3608
+& MW     12 pm–3 pm                                     OC 4505
+1214     TTh      10:30 am–11:45 am    JOHNSON C        5.0      OC 3609
+& TTh    12 pm–3 pm                                     OC 4501
+2235     FS       11:15 am–12:30 pm    ABBAS R          5.0      OC 3609
+& FS      8 am–11 am                                    OC 4505
+1224     TTh       5:30 pm–6:45 pm     STAFF            5.0      OC 3609
+& TTh     7 pm–10 pm                                    OC 4501
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1210     MTWTh 10:30 am–11:55 am       STAFF            5.0     SAN T131
+& MTWTh 7:15 am–10:20 am                               SAN 1002
+2436     MW        1:30 pm–2:45 pm     SELCHAU L        5.0     SAN T131
+& MW      3:15 pm–6:15 pm                              SAN 1001
+*CHEM 150H General Chemistry I: For Science Majors (Honors)
+-OCEANSIDE CAMPUS                                                  Room #
+3446    TTh      12 pm–1:15 pm       ARQUERO K         5.0    SAN T131
+& TTh     8:45 am–11:45 am                            SAN 1001
+*CHEM 151 General Chemistry II: For Science Majors
+-OCEANSIDE CAMPUS                                                  Room #
+2712    FS        7:45 am–9 am       ABBAS S           5.0     OC 3609
+& FS      9:15 am–12:15 pm                             OC 4501
+1216    MW       10:30 am–11:45 am   ARQUERO K         5.0     OC 3609
+& MW     12 pm–3 pm                                    OC 4501
+1964    TTh       1:30 pm–2:45 pm    PICKHAM K         5.0     OC 3609
+& TTh     3:15 pm–6:15 pm                              OC 4505
+-SAN ELIJO CAMPUS IN CARDIFF                                       Room #
+3469    TTh       2 pm–3:15 pm       STAFF             5.0     SAN 308
+& TTh     3:45 pm–6:45 pm                             SAN 1001
+-OCEANSIDE CAMPUS                                                  Room #
+1218    MW        5:30 pm–6:45 pm    FISHER K          5.0     OC 3609
+& MW      7 pm–10 pm                                   OC 4501
+-SAN ELIJO CAMPUS IN CARDIFF                                       Room #
+2432    MTWTh 10:30 am–11:55 am      STAFF             5.0    SAN T131
+& MTWTh 7:15 am–10:20 am                              SAN 1002
+*CHEM 210 Organic Chemistry I: For Science Majors
+-OCEANSIDE CAMPUS                                                  Room #
+1228    TTh      10:30 am–11:45 am   STAFF             5.0     OC 3608
+& TTh    12 pm–3 pm                                    OC 4505
+1230    TTh       5:30 pm–6:45 pm    SELCHAU V         5.0     OC 3608
+& TTh     7 pm–10 pm                                   OC 4505
+-SAN ELIJO CAMPUS IN CARDIFF                                       Room #
+2430    MW        5:30 pm–6:45 pm    NGUYEN T          5.0    SAN T131
+& MW      7 pm–10 pm                                  SAN 1001
+*CHLD 105 Introduction to Teaching Young Children
+-ONLINE
+2646    ONL                          STAFF             3.0      ONLINE
+1235    ONL                          STAFF             3.0      ONLINE
+-OCEANSIDE CAMPUS                                                  Room #
+1234    TTh      10:30 am–11:45 am   WHITNEY M         3.0     OC 8001
+1995    W         6:30 pm–9:20 pm    STAFF             3.0     OC 3201
+*CHLD 106 Introduction to Curriculum in Early Childhood
+-ONLINE
+2379    ONL                           STAFF          3.0    ONLINE
+-OCEANSIDE CAMPUS                                               Room #
+1236    S         8:30 am–2:40 pm     STAFF          3.0   OC 8001
+*CHLD 109 Child Behavior and Guidance
+-ONLINE
+1982    ONL                           STAFF          3.0    ONLINE
+2521    ONL                           STAFF          3.0    ONLINE
+-OCEANSIDE CAMPUS                                               Room #
+1237    MW        9 am–10:15 am       STAFF          3.0   OC 8001
+*CHLD 111 Programs for Infants and Toddlers
+-ONLINE
+2522    ONL                           STAFF          3.0    ONLINE
+-OCEANSIDE CAMPUS                                               Room #
+1238    S         9 am–11:50 am       STAFF          3.0   OC 8001
+& ONL    +3 hours 10 minutes weekly online.         ONLINE
+3092    F         8:30 am–12:20 pm    HANLEY A       3.0   OC 8001
+*CHLD 112 Child Growth and Development
+-ONLINE
+1242    ONL                           STAFF          3.0    ONLINE
+-OCEANSIDE CAMPUS                                               Room #
+2648    Th        6:30 pm–9:30 pm     STAFF          3.0   OC 8001
+*CHLD 113 Child and Adolescent Growth and Development
+-ONLINE
+1246    ONL                           SKEMP P        3.0    ONLINE
+3094    ONL                           STAFF          3.0    ONLINE
+3093    ONL                           STAFF          3.0    ONLINE
+2584    ONL                           SKEMP P        3.0    ONLINE
+1996    ONL                           STAFF          3.0    ONLINE
+-OCEANSIDE CAMPUS                                               Room #
+2255    TTh       9 am–10:15 am       WHITNEY   M    3.0   OC  8001
+1243    MW       12 pm–1:15 pm        WHITNEY   M    3.0   OC  8001
+1244    MW        1:30 pm–2:45 pm     WHITNEY   M    3.0   OC  8001
+2380    TTh       1:30 pm–2:45 pm     WHITNEY   M    3.0   OC  8001
+-SAN ELIJO CAMPUS IN CARDIFF                                    Room #
+1245    TTh      10:30 am–11:45 am    STAFF          3.0   SAN 302
+*CHLD 130 Science and Math for Young Children
+-ONLINE
+2523    ONL                           STAFF          3.0    ONLINE
+*CHLD 140 Language and Literacy in Early Childhood
+-OCEANSIDE CAMPUS                                                    Room #
+1239     MW       10:30 am–11:45 am    FLORES C           3.0     OC 8001
+*CHLD 150 Art for Young Children
+-ONLINE
+3095     ONL                           STAFF              3.0      ONLINE
+*CHLD 160 Music and Movement for Young Children
+-OCEANSIDE CAMPUS                                                    Room #
+1240     T         6:30 pm–9:20 pm     STAFF              3.0     OC 8001
+*CHLD 200 Observation & Assessment in Early Childhood
+-ONLINE
+2467     ONL                           STAFF              3.0      ONLINE
+*CHLD 205 Health, Safety, and Nutrition
+-ONLINE
+2629     ONL                           STAFF              3.0      ONLINE
+2649     ONL                           STAFF              3.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+2381     T         3:30 pm–6:20 pm     STAFF              3.0     OC 8001
+*CHLD 210 Child, Family, and Community
+-ONLINE
+1249     ONL                           STAFF              3.0      ONLINE
+2650     ONL                           FLORES C           3.0      ONLINE
+1934     ONL                           STAFF              3.0      ONLINE
+1248     ONL                           STAFF              3.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+1247     TTh      12 pm–1:15 pm        STAFF              3.0     OC 8001
+*CHLD 212 Advanced Issues in Infant-Toddler Care
+-ONLINE
+3096     ONL                           STAFF              3.0      ONLINE
+*CHLD 235 Children in a Diverse Society
+-ONLINE
+3097     ONL                           FLORES C           3.0      ONLINE
+*CHLD 240 Children with Special Learning Needs
+-OCEANSIDE CAMPUS                                                    Room #
+2659     M         6:30 pm–9 pm        STAFF              3.0     OC 8001
+& ONL    +4 hours 30 minutes weekly online.               ONLINE
+*CHLD 250 Administration I: Programs in Early Childhood Education
+-OCEANSIDE CAMPUS                                                     Room #
+2158    W         6:30 pm–8:20 pm     HAAR L             3.0     OC 8001
+& ONL    +4 hours 10 minutes weekly online.                ONLINE
+*CHLD 299 Occupational Cooperative Work Experience
+3032    ARRANGED                      STAFF              3.0
+*COMM 101 Public Speaking
+-ONLINE
+2074    ONL                           ROBERTSON E        3.0       ONLINE
+1278    ONL                           ROBERTSON E        3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1252    Th        6 pm–8:50 pm        POWERS L           3.0      OC 3501
+& ONL    +3 hours 10 minutes weekly online.                ONLINE
+1254    Th        6 pm–8:50 pm        POWERS L           3.0      OC 3501
+& ONL    +3 hours 10 minutes weekly online.                ONLINE
+1257    MW        7:30 am–8:45 am     STAFF              3.0      OC 3501
+1271    F         9 am–12 pm          FANNEY E           3.0      OC 3501
+1958    MW        9 am–10:15 am       STAFF              3.0      OC 3501
+2644    MW       12 pm–1:15 pm        STAFF              3.0      OC 3501
+1251    TTh      12 pm–1:15 pm        ORTIZ K            3.0      OC 3501
+1264    TTh       3 pm–4:15 pm        BROWN D            3.0      OC 3501
+1976    MW        3 pm–4:15 pm        STAFF              3.0      OC 3501
+1258    MW        4:30 pm–5:45 pm     STAFF              3.0      OC 3501
+2049    M         6 pm–9:10 pm        MAGTIRA F          3.0      OC 3501
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1255    M         6 pm–8:50 pm        ARENIVAR S         3.0      SAN 507
+& ONL    +3 hours 30 minutes weekly online.                ONLINE
+1256    M         6 pm–8:50 pm        ARENIVAR S         3.0      SAN 507
+& ONL    +3 hours 10 minutes weekly online.                ONLINE
+1253    MW        7:30 am–8:45 am     KAHLOW J           3.0      SAN  507
+2627    F         9 am–12 pm          WITMER S           3.0      SAN  507
+1250    MW        9 am–10:15 am       KAHLOW J           3.0      SAN  507
+1270    TTh      10:30 am–11:45 am ROBERTSON E           3.0      SAN  507
+1272    TTh      12 pm–1:15 pm        STAFF              3.0      SAN  507
+1269    TTh       1:30 pm–2:45 pm     STAFF              3.0      SAN  507
+1273    TTh       3 pm–4:15 pm        WITMER S           3.0      SAN  507
+2225    W         6 pm–8:50 pm        CORCORAN JR        3.0      SAN  507
+*COMM 106 Group Communication
+-ONLINE
+3329    ONL                           POWERS L           3.0       ONLINE
+1259    ONL                           POWERS L           3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1265    MW        1:30 pm–2:45 pm     STAFF              3.0      OC 3501
+3177    TTh       1:30 pm–2:45 pm     ORTIZ K            3.0      OC 3501
+1266    T         6 pm–8:50 pm        BROWN D            3.0      OC 3501
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1277    MW       12 pm–1:15 pm        CORCORAN JR        3.0      SAN 507
+1279    T         6 pm–8:50 pm        PERTLER N          3.0      SAN 507
+*COMM 111 Oral Interpretation of Literature
+-OCEANSIDE CAMPUS                                               Room #
+3178    MW       12 pm–1:15 pm        LAW M          3.0   OC 3516
+*COMM 120 Principles of Human Communication
+-ONLINE
+1268    ONL                           ARENIVAR S     3.0    ONLINE
+-OCEANSIDE CAMPUS                                               Room #
+1933    MW       10:30 am–11:45 am    LAW M          3.0   OC 3501
+1275    TTh      10:30 am–11:45 am    FOGLE A        3.0   OC 3516
+*COMM 135 Gender Studies in Communication
+-ONLINE
+2539    ONL                           POWERS L       3.0    ONLINE
+-OCEANSIDE CAMPUS                                               Room #
+2538    W         6 pm–8:50 pm        COREY A        3.0   OC 3501
+*COMM 207 Interpersonal Communication
+-ONLINE
+3176    ONL                           POWERS L       3.0    ONLINE
+-OCEANSIDE CAMPUS                                               Room #
+2051    TTh      10:30 am–11:45 am    FANNEY E       3.0   OC 3501
+1261    MW       10:30 am–11:45 am    ANDERSON T     3.0   OC 3516
+2281    MW        1:30 pm–2:45 pm     ANDERSON T     3.0   OC 3516
+-ONLINE
+1260    ONL                           POWERS L       3.0    ONLINE
+-SAN ELIJO CAMPUS IN CARDIFF                                    Room #
+1267    MW       10:30 am–11:45 am    ROSTAMI S      3.0   SAN 507
+*COMM 212 Argumentation
+-OCEANSIDE CAMPUS                                               Room #
+1262    TTh       1:30 pm–2:45 pm     ROSTAMI S      3.0   OC 3516
+-ONLINE
+2050    ONL                           ROBERTSON E    3.0    ONLINE
+-SAN ELIJO CAMPUS IN CARDIFF                                    Room #
+1274    TTh       9 am–10:15 am       ROBERTSON E    3.0   SAN 507
+*COMM 215 Intercultural Communication
+-ONLINE
+1263    ONL                           ARENIVAR S     3.0    ONLINE
+2388    ONL                           ARENIVAR S     3.0    ONLINE
+-OCEANSIDE CAMPUS                                               Room #
+1813    TTh      12 pm–1:15 pm        ROSTAMI S      3.0   OC 3516
+-SAN ELIJO CAMPUS IN CARDIFF                                    Room #
+1814    MW        1:30 pm–2:45 pm     COREY A        3.0   SAN 507
+*COMM 220 Introduction to Mass Communication
+-OCEANSIDE CAMPUS                                                     Room #
+2537    TTh       9 am–10:15 am       FOGLE A            3.0      OC 3501
+*COMM 299 Occupational Cooperative Work Experience
+3033    ARRANGED                      STAFF              3.0
+*CS 101 Introduction to Computer Science Principles
+-OCEANSIDE CAMPUS                                                     Room #
+3084    MW        1:30 pm–3:50 pm     CHAPETON LAM       3.0    OC 4803B
+*CS 107 Introduction to Object-Oriented Programming
+-OCEANSIDE CAMPUS                                                     Room #
+1724    TTh       9 am–10:50 am       PATEL K            3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+*CS 111 Introduction to Computer Science I: Java
+-OCEANSIDE CAMPUS                                                     Room #
+2355    MW        7 am–8:50 am        CASTILLO III       3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+1720    TTh       7 am–8:50 am        PATEL K            3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+2247    F         9 am–1 pm           STRAMAGLIA M       3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+1980    MW        9 am–10:50 am       STAFF              3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+2249    MW        1:30 pm–3:20 pm     STAFF              3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+2102    TTh       3:30 pm–5:20 pm     PORTO J            3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+1722    W         5:30 pm–9:20 pm     RUSSELL L          3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+2595    TTh       6 pm–7:50 pm        MOEZZI S           3.0      SAN 107
+& ONL    +1 hour weekly online.                            ONLINE
+*CS 112 Introduction to Computer Science II: Java
+-OCEANSIDE CAMPUS                                                     Room #
+2482    F         1:10 pm–5:10 pm     MERRILL C          3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+1728    TTh       1:30 pm–3:20 pm     PORTO J            3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+2159    T         5:30 pm–9:20 pm     PORTO J            3.0     OC 4804
+& ONL    +1 hour weekly online.                            ONLINE
+*CS 113 Basic Data Structures and Algorithms
+-OCEANSIDE CAMPUS                                                        Room #
+2395    MW        11 am–12:50 pm        CHAPETON LAM        3.0      OC 4804
+& ONL     +1 hour weekly online.                              ONLINE
+2622    TTh        1:30 pm–3:20 pm      MERRILL C           3.0     OC 4803A
+& ONL     +1 hour weekly online.                              ONLINE
+*CS 138 Programming with Python
+-ONLINE
+2206    ONL                             LEWIS K             3.0       ONLINE
+*CS 150 C++ Programming
+-OCEANSIDE CAMPUS                                                        Room #
+1726    TTh       11 am–12:50 pm        STAFF               3.0      OC 4804
+& ONL     +1 hour weekly online.                              ONLINE
+1911    Th         5:30 pm–9:30 pm      ALOKA M             3.0      OC 4804
+& ONL     +1 hour weekly online.                              ONLINE
+*CS 155 C# and the .NET Framework
+-OCEANSIDE CAMPUS                                                        Room #
+2393    M          5:30 pm–7:30 pm      LEWIS K             3.0      OC 4804
+&M         7:30 pm–9:30 pm                                   OC 4804
+& ONL     +1 hour weekly online.                              ONLINE
+*CS 220 Computer Architecture and Assembly Language
+-OCEANSIDE CAMPUS                                                        Room #
+2525    MW         3:30 pm–5:20 pm      CHAPETON LAM        3.0      OC 4804
+& ONL     +1 hour weekly online.                              ONLINE
+*CS 299 Occupational Cooperative Work Experience
+3034    ARRANGED                        STAFF               3
+*CSIT 101 Introduction to Computers
+-OCEANSIDE CAMPUS                                                        Room #
+3052    MW        10:30 am–11:45 am     HERRICK J           3.0     OC 4803A
+*CSIT 110 Computer Applications
+-ONLINE
+1863    ONL                             ORNELAS C           3.0       ONLINE
+1861    ONL                             STAFF               3.0       ONLINE
+1862    ONL                             ANDERSEN A          3.0       ONLINE
+*CSIT 110 Computer Applications (continued)
+-OCEANSIDE CAMPUS                                                         Room #
+1860    TTh        9 am–10:15 am         ISACHSEN S         3.0     OC 4803A
+1859    MW        12 pm–1:15 pm          STAFF              3.0     OC 4803A
+*CSIT 120 Fundamentals of Computer Information Systems
+-ONLINE
+1864    ONL                              CASSONI R          3.0       ONLINE
+-OCEANSIDE CAMPUS                                                         Room #
+1977    MW         9 am–10:15 am         STAFF              3.0     OC 4803B
+2010    TTh       12 pm–1:15 pm          CASSONI R          3.0     OC 4803A
+-ONLINE
+1865    ONL                              CASSONI R          3.0       ONLINE
+*CSIT 123 Introduction to Applied Data Analytics
+-OCEANSIDE CAMPUS                                                         Room #
+2677    TTh       10:30 am–11:45 am      CASSONI R          3.0     OC 4803A
+*CSIT 125 Microsoft Word for Business
+-ONLINE
+1866    ONL                              SAYBLE-THORN       3.0       ONLINE
+*CSIT 128 Microsoft Excel for Business
+-ONLINE
+1868    ONL                              AFZALI A           3.0       ONLINE
+1867    ONL                              STAFF              3.0       ONLINE
+-OCEANSIDE CAMPUS                                                         Room #
+2251    M          5:30 pm–8:40 pm       STAFF              3.0     OC 4803A
+*CSIT 131 Microsoft Access for Business
+-ONLINE
+1869    ONL                              LOUGHREY E         3.0       ONLINE
+*CSIT 134 Microsoft PowerPoint for Business
+-ONLINE
+1870    ONL                              SAYBLE-THORN       3.0       ONLINE
+*CSIT 137 Google Apps for Business
+-ONLINE
+1871     ONL                           LOUGHREY E     3.0     ONLINE
+2369     ONL                           ANDERSEN A     3.0     ONLINE
+2371     ONL                           TRZOS T        3.0     ONLINE
+2370     ONL                           TRZOS T        3.0     ONLINE
+*CSIT 146 E-Commerce and Web Presence
+-ONLINE
+1872     ONL                           DEAN JR D      3.0     ONLINE
+*CSIT 149 Microsoft Windows
+-ONLINE
+2011     ONL                           JONES S        3.0     ONLINE
+*CSIT 155 Social Media for Business
+-ONLINE
+1873     ONL                           FAULK C        3.0     ONLINE
+*CSIT 160 Technology, the Individual, and Society
+-ONLINE
+2181     ONL                           ISACHSEN S     3.0     ONLINE
+1914     ONL                           ISACHSEN S     3.0     ONLINE
+*CSIT 165 Living in an Online World
+-ONLINE
+2460     ONL                           ISACHSEN S     3.0     ONLINE
+2676     ONL                           ISACHSEN S     3.0     ONLINE
+*CSIT 180 Fundamentals of Computer Hardware and Software
+-OCEANSIDE CAMPUS                                               Room #
+3067     MW       11 am–12:50 pm       CASSONI R      4.0   OC 4803B
+& ONL    +1 hour weekly online.                      ONLINE
+3069     T         5:30 pm–9:20 pm     ALIZADEH R     4.0   OC 4803A
+& ONL    +1 hour weekly online.                      ONLINE
+*CSIT 181 Fundamentals of Computer Networking
+-OCEANSIDE CAMPUS                                               Room #
+3071     W         5:30 pm–9:20 pm     MCLEAN T       3.0   OC 4803B
+& ONL    +1 hour weekly online.                      ONLINE
+*CSIT 182 Fundamentals of Computer Security
+-OCEANSIDE CAMPUS                                                     Room #
+3073    T         5:30 pm–9:20 pm      EDMISTEN B          3.0   OC 4803B
+& ONL    +1 hour weekly online.                             ONLINE
+*CSIT 183 Windows Server
+-OCEANSIDE CAMPUS                                                     Room #
+3075    Th        5:30 pm–9:20 pm      MOEBEST W           3.0   OC 4803B
+& ONL    +1 hour weekly online.                             ONLINE
+*CSIT 286 Professional Certification Preparation
+-ONLINE
+3051    ONL                            ISACHSEN S          1.0      ONLINE
+*CSIT 299 Occupational Cooperative Work Experience
+3035    ARRANGED                       STAFF               3.0
+*COUN 100 College and Career Success
+-ONLINE
+2907    ONL                            HORTON W            3.0      ONLINE
+2516    ONL                            LEE M               3.0      ONLINE
+2517    ONL                            WISH K              3.0      ONLINE
+2617    ONL                            FLOCKEN L           3.0      ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+2514    T         9 am–11:50 am        MCINTOSH D          3.0     OC T401
+& ONL    +3 hours weekly online.                            ONLINE
+2519    F         9 am–12 pm           DUA A               3.0     OC T402
+2726    TTh       9 am–10:15 am        GEBREKRISTOS S      3.0    OC 4809
+2725    F         9 am–12 pm           BERRIEN M           3.0     OC 3511
+2512    F         9 am–12 pm           OSBORNE JR A        3.0    OC 4809
+3086    F         9 am–12 pm           LONG E              3.0     OC 3516
+1283    F         9 am–12 pm           SURRATT J           3.0     OC T401
+1281    F         9 am–12 pm           HAYEK L             3.0    OC T430
+2511    MW       10:30 am–11:45 am LOVE D                  3.0     OC 3101
+2515    TTh      11 am–12:15 pm        STAFF               3.0     OC 4016
+1282    MW       12 pm–1:15 pm         LOMELI S            3.0     OC T413
+2518    TTh       4:30 pm–5:45 pm      VILCHEZ K           3.0    OC 4809
+2513    MW        6 pm–7:15 pm         SHOOSHTARY S        3.0     OC T401
+*COUN 101 Orientation to College
+2315    W        12:15 pm–2:20 pm     VERASTEGUI S       1.0      CLC 118
+*COUN 105 Transfer Success
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1280    W        11 am–1:05 pm        PEREZ J            1.0     SAN 303
+2727    Th       12 pm–2:05 pm        ZAMAN A            1.0     SAN 202
+*DNCE 100 Dance Appreciation
+-ONLINE
+2877    ONL                           MASSEY D           3.0      ONLINE
+1810    ONL                           MASSEY D           3.0      ONLINE
+*DNCE 101 Dance History
+-ONLINE
+1802    ONL                           HANADA-ROGER       3.0      ONLINE
+2878    ONL                           TAPIA M            3.0      ONLINE
+*DNCE 104 Dance on Film
+-ONLINE
+2588    ONL                           SPRAGUE T          3.0      ONLINE
+*DNCE 105 Dance Cultures of the World
+-ONLINE
+1883    ONL                           HANADA-ROGER       3.0      ONLINE
+1803    ONL                           HANADA-ROGER       3.0      ONLINE
+*DNCE 121 Hip Hop I
+-OCEANSIDE CAMPUS                                                    Room #
+2641    F        10 am–12:05 pm       SORENSEN K         1.0     OC 2703
+2589    MW        1:30 pm–2:20 pm     ADAO M             1.0     OC 2703
+*DNCE 122 Hip Hop II
+-OCEANSIDE CAMPUS                                                    Room #
+3440    F        10 am–12:05 pm       SORENSEN K         1.0     OC 2703
+2666    MW        1:30 pm–2:20 pm     ADAO M             1.0     OC 2703
+*DNCE 130 Middle Eastern Dance I
+-OCEANSIDE CAMPUS                                               Room #
+3431    TTh      12:30 pm–1:35 pm     HANADA-ROGER 1.0     OC 2703
+*DNCE 131 Middle Eastern Dance II
+-OCEANSIDE CAMPUS                                               Room #
+3454    TTh      12:30 pm–1:35 pm     HANADA-ROGER 1.0     OC 2703
+*DNCE 140 Ballroom Dance Technique I
+-OCEANSIDE CAMPUS                                               Room #
+3433    M         6 pm–8:25 pm        STAFF        1.0     OC 2703
+*DNCE 143 Ballroom Dance Technique II
+-OCEANSIDE CAMPUS                                               Room #
+3456    M         6 pm–8:25 pm        STAFF        1.0     OC 2703
+*DNCE 152 Ballet I
+-OCEANSIDE CAMPUS                                               Room #
+1804    S         9 am–12:30 pm       DAVIS A      1.5     OC 2703
+1881    TTh       5:30 pm–7 pm        WEINBERG S   1.5     OC 2703
+*DNCE 154 Ballet II
+-OCEANSIDE CAMPUS                                               Room #
+1927    TTh      10:45 am–12:15 pm    DAVIS A      1.5     OC 2703
+*DNCE 157 Pilates Apparatus I
+-OCEANSIDE CAMPUS                                               Room #
+2547    TTh       8 am–9:05 am        STAFF        1.0     OC 2701
+*DNCE 159 Pilates Mat Work I
+-OCEANSIDE CAMPUS                                               Room #
+1806    MW        8 am–8:50 am        STAFF        1.0     OC 2703
+*DNCE 166 Jazz Dance I
+-OCEANSIDE CAMPUS                                             Room #
+2389    TTh       9 am–10:30 am       HANADA-ROGER 1.5   OC 2703
+*DNCE 168 Jazz Dance II
+-OCEANSIDE CAMPUS                                             Room #
+1984    MW       10:45 am–12:15 pm    JANKOVIC T   1.5   OC 2703
+*DNCE 172 Musical Theater Dance I
+-OCEANSIDE CAMPUS                                             Room #
+3435    MW        1:30 pm–3 pm        MASSEY D     1.5   OC 2701
+*DNCE 176 Modern Dance I
+-OCEANSIDE CAMPUS                                             Room #
+1808    TTh       7:15 pm–8:45 pm     WEINBERG S   1.5   OC 2703
+*DNCE 178 Modern Dance II
+-OCEANSIDE CAMPUS                                             Room #
+2549    MW        9 am–10:30 am       JANKOVIC T   1.5   OC 2703
+*DNCE 185 Choreography
+-OCEANSIDE CAMPUS                                             Room #
+1986    TTh       2:15 pm–4:35 pm     MASSEY D     3.0   OC 2703
+*DNCE 203 Contemporary Dance Production IV
+-OCEANSIDE CAMPUS                                             Room #
+3047    ARRANGED                      HANADA-ROGER 1.5   OC 2703
+*DNCE 205 Classical Dance Production II
+-OCEANSIDE CAMPUS                                             Room #
+3049    ARRANGED                      HANADA-ROGER 1.5   OC 2703
+*DNCE 221 Hip Hop III
+-OCEANSIDE CAMPUS                                             Room #
+3442    MW        2:30 pm–4 pm        ADAO M       1.5   OC 2703
+*DNCE 260 Dance Touring Ensemble
+-OCEANSIDE CAMPUS                                                     Room #
+3437    ARRANGED                     MASSEY D            1.5      OC 2703
+*DNCE 299 Occupational Cooperative Work Experience
+3037    ARRANGED                     STAFF               3.0
+*DESN 100 Fundamentals of Design
+-OCEANSIDE CAMPUS                                                     Room #
+2114    MW       12 pm–2:20 pm       STAFF               3.0      OC 4531
+*DESN 101 Computer-Aided Design and Drafting
+-OCEANSIDE CAMPUS                                                     Room #
+2118    TTh       5:30 pm–9:20 pm    STAFF               4.0     OC 4530
+2116    ONL                          STAFF               4.0       ONLINE
+& MW      9 am–11:50 am                                  OC 4530
+*DESN 102 Architectural Drawing
+-OCEANSIDE CAMPUS                                                     Room #
+3338    TTh       9:30 am–11:50 am   STAFF               3.0      OC 4531
+2120    MW        5 pm–7:20 pm       STAFF               3.0      OC 4531
+*DESN 107 History of Western Architecture—A Sustainable Perspective
+-OCEANSIDE CAMPUS                                                     Room #
+2277    MW       10:30 am–11:45 am   STAFF               3.0      OC 4531
+2278    MW        3:30 pm–4:45 pm    STAFF               3.0      OC 4531
+*DESN 110 Graphics Communication
+-OCEANSIDE CAMPUS                                                     Room #
+2122    TTh       8 am–10:20 am      STAFF               3.0     OC 4530
+*DESN 120 Manufacturing Processes
+-OCEANSIDE CAMPUS                                                     Room #
+2155    TTh       3:30 pm–5:20 pm    STAFF               3.0      OC 4531
+*DESN 203 Solid Modeling
+-OCEANSIDE CAMPUS                                                     Room #
+2382    MW        5:30 pm–8:30 pm    STAFF               3.0     OC 4530
+*DESN 204 Advanced 3D Modeling and Prototyping
+-OCEANSIDE CAMPUS                                                     Room #
+2153    TTh      12 pm–3 pm           STAFF              3.0     OC 4530
+*DESN 207 Revit Building Information Modeling
+-ONLINE
+2124    ONL                           STAFF              3.0       ONLINE
+*DESN 299 Occupational Cooperative Work Experience
+3036    ARRANGED                      STAFF              3.
+*DRAM 105 Introduction to Theatre
+-ONLINE
+1285    ONL                           ADKINS D           3.0       ONLINE
+3057    ONL                           LAYNE T            3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1284    MW        9:30 am–10:45 am    WILLIAMS T         3.0      OC 2011
+*DRAM 107 Introduction to Design for Performance
+-OCEANSIDE CAMPUS                                                     Room #
+2265    TTh       9:30 am–11:50 am    LAYTON A           3.0      OC 2011
+*DRAM 110 Voice and Diction
+-OCEANSIDE CAMPUS                                                     Room #
+1290    MW       12 pm–1:15 pm        WILLIAMS T         3.0      OC 2701
+*DRAM 130 Acting I
+-OCEANSIDE CAMPUS                                                     Room #
+1291    MW        9:30 am–11:50 am    BISHOP E           3.0      OC 2701
+1286    TTh       9:30 am–11:50 am    WILLIAMS T         3.0      OC 2701
+*DRAM 139 Stage and Concert Management
+-OCEANSIDE CAMPUS                                                     Room #
+2263    TTh       1:30 pm–3:50 pm     LAYTON A           3.0      OC 2011
+*DRAM 148 Acting for the Camera
+-OCEANSIDE CAMPUS                                                     Room #
+2015    F        12:15 pm–5:40 pm     WALCUTT J          3.0      OC 2701
+*DRAM 202 Rehearsal and Performance: Comedic Theatre
+-OCEANSIDE CAMPUS                                                     Room #
+3490    ARRANGED                        BISHOP E          2.0     OC 2701
+*DRAM 203 Rehearsal and Performance: Classical Theatre
+-OCEANSIDE CAMPUS                                                     Room #
+3445    ARRANGED                        WILLIAMS T        2.0     OC 2701
+*DRAM 210 Rehearsal and Performance: Technical Theatre
+-OCEANSIDE CAMPUS                                                     Room #
+2066    ARRANGED                        LAYTON A          2.0    OC 2001
+2067    ARRANGED                        LAYTON A          2.0    OC 2001
+*DRAM 231 Acting II
+-OCEANSIDE CAMPUS                                                     Room #
+1935    TTh       12 pm–2:20 pm         BISHOP E          3.0     OC 2701
+*DRAM 253 Makeup for Theatre, Television, and Film
+-OCEANSIDE CAMPUS                                                     Room #
+3058    MW         2:30 pm–4:50 pm      STAFF             3.0     OC 2011
+*DRAM 299 Occupational Cooperative Work Experience
+3018    ARRANGED                        STAFF             3.0
+*EART 106 Earth and Space Science
+-ONLINE
+2630    ONL                             GOMES C           3.0      ONLINE
+1294    ONL                             GARZA J           3.0      ONLINE
+2310    ONL                             STOFFER P         3.0      ONLINE
+2347    ONL                             BECK S            3.0      ONLINE
+2093    ONL                             GARZA J           3.0      ONLINE
+1296    ONL                             SCHUBEL K         3.0      ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+2407    F          9:30 am–12:30 pm     STAFF             3.0     OC 4529
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1295    TTh        9 am–10:15 am        STAFF             3.0     SAN 406
+*ECON 100 Survey of Economics
+-ONLINE
+1297    ONL                           CARR F           3.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1306    TTh       9 am–10:15 am       ALI S            3.0     OC 3205
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+1835    MW       10:30 am–11:45 am    MICELLI H        3.0     SAN 307
+*ECON 101 Principles of Economics: MACRO
+-ONLINE
+1307    ONL                           ALI S            3.0      ONLINE
+1300    ONL                           ALI S            3.0      ONLINE
+2409    ONL                           ALI S            3.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1299    TTh      10:30 am–11:45 am    ALI S            3.0     OC 3205
+1302    W         6:30 pm–9:20 pm     COULL M          3.0     OC 3106
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+1298    TTh       7:30 am–8:45 am     CARR F           3.0     SAN 307
+1301    TTh       1:30 pm–2:45 pm     SILVERMAN J      3.0     SAN 303
+*ECON 102 Principles of Economics: MICRO
+-OCEANSIDE CAMPUS                                                   Room #
+2162    F         9 am–12 pm          MICELLI H        3.0     OC 3102
+1304    MW       10:30 am–11:45 am    ALI S            3.0     OC 3205
+2408    F        12 pm–3 pm           RAHMANI F        3.0     OC 3104
+1303    TTh      12 pm–1:15 pm        ALI S            3.0     OC 3104
+3102    Th        6:30 pm–9:30 pm     RAHMANI F        3.0     OC 3102
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+1308    MW        9 am–10:15 am       MICELLI H        3.0     SAN 307
+1309    TTh      12 pm–1:15 pm        SILVERMAN J      3.0     SAN 307
+1305    M         6:30 pm–9:40 pm     AKI C            3.0     SAN 307
+*EDUC 115 Foundations of Teaching as a Profession
+-OCEANSIDE CAMPUS                                                   Room #
+1828    T         6:30 pm–9:20 pm     STAFF            3.0     OC 3201
+*ENGL 40 English Grammar and Usage
+-ONLINE
+3100    ONL                           MITCHELL C       3.0      ONLINE
+*ENGL 49 Introduction to Academic Writing
+-OCEANSIDE CAMPUS                                                   Room #
+1355    TTh       9 am–10:50 am       FREEDMAN A       4.0     OC   4611
+1356    MW       11 am–12:50 pm       GUINON T         4.0     OC   4611
+1357    MW        1:30 pm–3:20 pm     O’DONNELL M      4.0     OC   4611
+1372    TTh       3:30 pm–5:20 pm     BRAMAN J         4.0     OC   4611
+1358    MW        6 pm–7:50 pm        O’DONNELL M      4.0     OC   4611
+*ENGL 50 Introduction to College Composition
+-OCEANSIDE CAMPUS                                                     Room #
+1360    TTh        7 am–8:50 am         ZIMMERMAN M         4.0   OC 4611
+1363    MW         9 am–10:50 am        GUINON T            4.0   OC 4611
+1361    MW         9 am–10:50 am        FIGUEROA-CHA        4.0   OC T307
+2017    TTh       11 am–12:50 pm        DIAZ Z              4.0   OC 4611
+1387    TTh        1:30 pm–3:20 pm      PRESCOTT K          4.0   OC 4611
+1362    MW         3:30 pm–5:20 pm      O’CONNOR V          4.0   OC 4611
+1364    TTh        6 pm–7:50 pm         FREEDMAN A          4.0   OC 4611
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1379    M          9 am–10:50 am        HAGEN K             4.0   SAN 202
+&W         9 am–10:50 am                                  SAN 107
+1359    MW         9 am–10:50 am        NAGAI T             4.0   CLC 118
+*ENGL 52 College Composition Skills and Support
+-OCEANSIDE CAMPUS                                                     Room #
+2401    MW         9 am–9:50 am         STRONA J            2.0   OC 3510
+2402    MW        10 am–10:50 am        MITCHELL C          2.0   OC 3512
+2556    TTh       11 am–11:50 am        STRONA J            2.0   OC 3512
+2741    TTh       11 am–11:50 am        ZIMMERMAN M         2.0   OC 3510
+2557    MW        12 pm–12:50 pm        PRESCOTT K          2.0   OC 3510
+2739    MW         1 pm–1:50 pm         BURNS S             2.0   OC 3512
+3101    TTh        2 pm–2:50 pm         NAGAI T             2.0   OC 3510
+2740    TTh        3:30 pm–4:20 pm      HIDLE J             2.0   OC 3512
+3170    MW         4 pm–4:50 pm         NAGAI T             2.0   OC 3512
+2742    TTh        8 pm–8:50 pm         BRAMAN J            2.0   OC 3512
+*ENGL 52 College Composition Skills and Support (continued)
+-SAN ELIJO CAMPUS IN CARDIFF                                             Room #
+2575    T         11 am–11:50 am          HAGEN K           2.0     SAN 202
+& Th      11 am–11:50 am                                     SAN 107
+2743    M          1 pm–1:50 pm           HAGEN K           2.0      SAN 107
+&W         1 pm–1:50 pm                                     SAN 202
+*ENGL 100 Composition and Reading
+-ONLINE
+2481    ONL                               ALESSI A          4.0       ONLINE
+2814    ONL                               WILLIAMS J        4.0       ONLINE
+1310    ONL                               HIDLE J           4.0       ONLINE
+1377    ONL                               MITCHELL C        4.0       ONLINE
+1374    ONL                               TSUYUKI C         4.0       ONLINE
+1370    ONL                               TSUYUKI C         4.0       ONLINE
+1368    ONL                               HIDLE J           4.0       ONLINE
+-OCEANSIDE CAMPUS                                                        Room #
+2901    MW         9 am–10:45 am          SCADUTO E         4.0     OC 4612
+& ONL     +1 hour 5 minutes weekly online. This section is specially
+-ONLINE
+1336    M          6 pm–7:50 pm           SULLIVAN J        4.0     OC 3512
+& ONL     +2 hours 5 minutes weekly online.                   ONLINE
+2566    TTh        7 am–8:50 am           JARA J            4.0     OC 3510
+3489    MW         7 am–8:50 am           STRONA J          4.0     OC 3510
+1318    TTh        7 am–8:50 am           MITCHELL C        4.0     OC T306
+1317    MW         7 am–8:50 am           STRONA J          4.0     OC 3510
+1313    TTh        7 am–8:50 am           SULLIVAN J        4.0     OC 3512
+1312    MW         7 am–8:50 am           STAFF             4.0     OC T313
+1311    TTh        7 am–8:50 am           HERRMANN S        4.0     OC 3607
+1389    MW         7 am–8:50 am           STAFF             4.0     OC T306
+1367    MW         7 am–8:50 am           MCGUINNESS        4.0     OC 3607
+1963    F          8 am–12 pm             WOOD S            4.0     OC 3510
+2637    F          8 am–1:05 pm           FAZIO-DIBENE      4.0     OC 4611
+1320    S          8 am–12:05 pm          DAVIS J           4.0     OC 3512
+1319    F          8 am–12 pm             STAFF             4.0     OC 3512
+1375    MW         8 am–9:50 am           MITCHELL C        4.0     OC 3512
+1338    F          8 am–12 pm             STAFF             4.0     OC T313
+1325    F          8 am–12 pm             ERICKSEN L        4.0     OC T307
+3485    MW         8 am–9:50 am           MITCHELL C        4.0     OC 3512
+3483    TTh        9 am–10:50 am          STRONA J          4.0     OC 3512
+1895    MW         9 am–10:50 am          JARA J            4.0     OC T313
+2632    TTh        9 am–10:50 am          ZIMMERMAN M       4.0     OC 3510
+1376    TTh        9 am–10:50 am          JARA J            4.0     OC T313
+1339    TTh        9 am–10:50 am          STRONA J          4.0     OC 3512
+1323    TTh        9 am–10:50 am          DARA -            4.0     OC T307
+3487    TTh        9 am–10:50 am          ZIMMERMAN M       4.0     OC 3510
+3480    MW        10 am–11:50 am          PRESCOTT K        4.0     OC 3510
+*ENGL 100 Composition and Reading (continued)
+-OCEANSIDE CAMPUS                                                        Room #
+1327    MW         10 am–11:50 am        PRESCOTT K         4.0      OC 3510
+3486    MW         11 am–12:50 pm        BURNS S            4.0      OC 3512
+2744    TTh        11 am–12:50 pm        TSUYUKI C          4.0     OC T306
+2583    MW         11 am–12:50 pm        LLOYD JONES        4.0      OC 4612
+1392    MW         11 am–12:50 pm        BURNS S            4.0      OC 3512
+1391    MW         11 am–12:50 pm        DIAZ Z             4.0      OC T313
+1329    MW         11 am–12:50 pm        JARA J             4.0     OC T306
+3484    TTh        12 pm–1:50 pm         NAGAI T            4.0      OC 3510
+1371    TTh        12 pm–1:50 pm         NAGAI T            4.0      OC 3510
+1328    TTh         1:30 pm–3:20 pm      STRONA J           4.0      OC T313
+1896    TTh         1:30 pm–3:20 pm      HIDLE J            4.0      OC 3512
+2782    M           1:30 pm–3:20 pm      HO J               4.0      OC 4612
+&W          1:30 pm–3:20 pm                                  OC 3511
+2643    MW          1:30 pm–3:20 pm      DIAZ Z             4.0      OC 3510
+2745    TTh         1:30 pm–3:20 pm      ANTE-CONTRER       4.0     OC T306
+3481    MW          2 pm–3:50 pm         NAGAI T            4.0      OC 3512
+1335    MW          2 pm–3:50 pm         NAGAI T            4.0      OC 3512
+2565    T           2:30 pm–4:20 pm      STAFF              4.0      OC 3511
+& Th        2:30 pm–4:20 pm                                  OC 4612
+1975    MW          3:30 pm–5:20 pm      WILKINSON S        4.0     OC T306
+1333    TTh         3:30 pm–5:20 pm      WHITTINGHILL       4.0      OC T313
+1332    MW          3:30 pm–5:20 pm      MARTINEZ M         4.0     OC 3607
+1326    MW          3:30 pm–5:20 pm      HO J               4.0      OC T313
+3482    TTh         6 pm–7:50 pm         BRAMAN J           4.0      OC 3512
+2582    MW          6 pm–7:50 pm         MARTINEZ M         4.0      OC 4612
+1382    TTh         6 pm–7:50 pm         WHITTINGHILL       4.0      OC T313
+1373    W           6 pm–9:50 pm         O’CONNOR V         4.0      OC 3512
+1337    TTh         6 pm–7:50 pm         BRAMAN J           4.0      OC 3512
+1321    T           6 pm–9:50 pm         MCGUINNESS         4.0      OC 3510
+-SAN ELIJO CAMPUS IN CARDIFF                                             Room #
+2872    T           6 pm–7:50 pm         BURMAN T           4.0      SAN 203
+& ONL      +2 hours weekly online.                            ONLINE
+1314    TTh         7 am–8:50 am         STAFF              4.0      SAN 506
+2221    TTh         7 am–8:50 am         WILLIAMS M         4.0     SAN T132
+1316    MW          7 am–8:50 am         MAGARGAL K         4.0      SAN 203
+1384    F           8 am–12 pm           STARK H            4.0      SAN 506
+3479    TTh         9 am–10:50 am        HAGEN K            4.0     SAN T132
+1386    MW          9 am–10:50 am        MAGARGAL K         4.0      SAN 203
+1331    MW          9 am–10:50 am        ONOFREY K          4.0      SAN 506
+2555    TTh         9 am–10:50 am        HAGEN K            4.0     SAN T132
+1322    TTh         9 am–10:50 am        SANCHEZ V          4.0      SAN 308
+1324    MW         11 am–12:50 pm        HAGEN K            4.0     SAN T132
+1888    MW         11 am–12:50 pm        LIGORSKY D         4.0      SAN 203
+3488    MW         11 am–12:50 pm        HAGEN K            4.0     SAN T132
+1385    TTh        11 am–12:50 pm        BURMAN T           4.0      SAN 506
+1334    TTh        11 am–12:50 pm        SANCHEZ V          4.0     SAN T132
+1330    MW          1:30 pm–3:20 pm      HERRMANN S         4.0      SAN 308
+*ENGL 100 Composition and Reading (continued)
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1393    MW        1:30 pm–3:20 pm     ANTE-CONTRER       4.0      SAN 203
+1378    TTh       1:30 pm–3:20 pm     CORDERO K          4.0      SAN 506
+1383    MW        3:30 pm–5:20 pm     WILLIAMS J         4.0      SAN 506
+1390    TTh       3:30 pm–5:20 pm     STAFF              4.0      SAN 506
+1340    TTh       6 pm–7:50 pm        STAFF              4.0      SAN 506
+2254    MW        6 pm–7:50 pm        FAZIO-DIBENE       4.0      SAN 506
+*ENGL 201 Critical Thinking, Composition, and Literature
+-ONLINE
+3449    ONL                           POTRATZ D          4.0       ONLINE
+1347    ONL                           SULLIVAN J         4.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1341    TTh       7 am–8:50 am        POTRATZ D          4.0      OC T307
+1345    MW        7 am–8:50 am        HEADLEY C          4.0      OC T307
+1342    F         8 am–12 pm          FAULKNER S         4.0     OC  T306
+1348    S         8 am–12:05 pm       WOOD S             4.0      OC 3510
+1369    TTh       9 am–10:50 am       DIAZ Z             4.0     OC  T306
+1344    MW        9 am–10:50 am       SANCHEZ V          4.0     OC  T306
+2594    MW       11 am–12:50 pm       DIAZ Z             4.0      OC T307
+1380    TTh      11 am–12:50 pm       DARA -             4.0      OC T307
+2345    MW        1:30 pm–3:20 pm     DARA -             4.0     OC T306
+2581    TTh       3:30 pm–5:20 pm     FAULKNER S         4.0     OC T306
+2554    TTh       3:30 pm–5:20 pm     LASATER L          4.0      OC 3510
+2873    M         5:55 pm–10 pm       CRUM J             4.0     OC 3607
+1815    Th        6 pm–10 pm          HANSON C           4.0     OC T306
+1388    MW        6 pm–7:50 pm        WILKINSON S        4.0     OC T306
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1365    TTh       7 am–8:50 am        MONTAGNA K         4.0      SAN 308
+2240    F         8 am–12 pm          DOLCE C            4.0      SAN 203
+1346    MW        9 am–10:50 am       LIGORSKY D         4.0      SAN 308
+1343    TTh      11 am–12:50 pm       STAFF              4.0      SAN 308
+1381    MW        1:30 pm–3:20 pm     DOLCE C            4.0      SAN 506
+2220    Th        6 pm–10 pm          STAFF              4.0      SAN 308
+*ENGL 201H Critical Thinking, Composition, and Literature (Honors)
+-OCEANSIDE CAMPUS                                                     Room #
+3099    MW        1:30 pm–3:20 pm     SANCHEZ V          4.0      OC T313
+*ENGL 202 Critical Thinking and Composition
+-ONLINE
+1351    ONL                           BURMAN T           4.0       ONLINE
+3448    ONL                           HOMER S            4.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1366    TTh       7 am–8:50 am        ALESSI A           4.0      OC T313
+2400    F         8 am–12 pm          BURNS S            4.0     OC 3607
+1352    TTh      11 am–12:50 pm       ANTE-CONTRER       4.0      OC T313
+1349    TTh       3:30 pm–5:20 pm     STAFF              4.0     OC 3607
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+2276    MW        9 am–10:50 am       HETRICK K          4.0     SAN T132
+1350    TTh       9 am–10:50 am       BURMAN T           4.0      SAN 506
+2275    MW       11 am–12:50 pm       ANTE-CONTRER       4.0      SAN 506
+2843    MW        1:30 pm–3:20 pm     HETRICK K          4.0     SAN T132
+*ENGL 280 Creative Writing
+-OCEANSIDE CAMPUS                                                Room #
+1353    TTh       1:30 pm–2:45 pm     TSUYUKI C      3.0    OC 3607
+-SAN ELIJO CAMPUS IN CARDIFF                                     Room #
+1354    TTh      12 pm–1:15 pm        CORDERO K      3.0    SAN 203
+*ESL 20 Listening and Speaking for Non-Native Speakers of English
+-OCEANSIDE CAMPUS                                                Room #
+1816    MW       10:30 am–11:45 am    MEYERS E       3.0    OC 3511
+*ESL 30 Reading and Vocabulary Development for Non-Native
+-OCEANSIDE CAMPUS                                                Room #
+1801    MW        9 am–10:15 am       MEYERS E       3.0    OC 3511
+*ESL 40 Grammar for Non-Native Speakers of English
+-OCEANSIDE CAMPUS                                                Room #
+1787    TTh      10:30 am–11:45 am    PARKER T       3.0    OC 3511
+1788    MW       12 pm–1:15 pm        MEYERS E       3.0    OC 3511
+2274    MW        6 pm–9:05 pm        CAVAZZI B      3.0    OC 3511
+*ESL 80 Advanced Grammar for Writing for Non-Native Speakers of
+-OCEANSIDE CAMPUS                                                Room #
+2728    TTh      10:30 am–11:45 am LLOYD JONES       3.0    OC 4612
+& ONL    +45 minutes weekly online.                  ONLINE
+*ESL 149 Introduction to Academic Writing for Students from
+-OCEANSIDE CAMPUS                                                Room #
+1789    T         8:30 am–10:20 am LLOYD JONES       4.0    OC 4612
+& Th      8:30 am–10:20 am                          OC 3511
+& ONL    +1 hour weekly online.                      ONLINE
+1791    T        12 pm–3:05 pm        RODRIGUEZ-CA   4.0    OC 4612
+& Th     12 pm–3:05 pm                              OC 3511
+2367    T         6 pm–9:05 pm        RODRIGUEZ-CA   4.0    OC 4612
+& Th      6 pm–9:05 pm                              OC 3511
+*ESL 150 Introduction to College Composition for Students from
+-OCEANSIDE CAMPUS                                                Room #
+1795    T         8:30 am–10:20 am PARKER T          4.0    OC 3511
+& Th      8:30 am–10:20 am                          OC 4612
+& ONL    +1 hour weekly online.                      ONLINE
+1793    T        12 pm–2:20 pm        LACKKATY S     4.0    OC 3511
+& Th     12 pm–2:20 pm                              OC 4612
+1797    M         1:30 pm–3:50 pm     CAVAZZI B      4.0    OC 3511
+&W        1:30 pm–3:50 pm                           OC 4612
+& ONL    +1 hour weekly online.                      ONLINE
+1799    T         6 pm–9:05 pm        LACKKATY S     4.0    OC 3511
+& Th      6 pm–9:05 pm                              OC 4612
+*FILM 101 Introduction to Film
+-ONLINE
+2634      ONL                               SPRAGUE T          3.0      ONLINE
+2911      ONL                               SPRAGUE T          3.0      ONLINE
+2488      ONL                               MANSOUR D          3.0      ONLINE
+2226      ONL                               GUNN B             3.0      ONLINE
+2237      ONL                               GUNN B             3.0      ONLINE
+-OCEANSIDE CAMPUS                                                          Room #
+1413      S           9 am–12:05 pm         BOLAND P           3.0     OC 3601
+1412      F           9 am–12 pm            WALCUTT J          3.0     OC 3601
+1414      M          12 pm–3:10 pm          GUNN B             3.0     OC 3601
+1416      M           5 pm–8:10 pm          GUNN B             3.0     OC 3601
+-SAN ELIJO CAMPUS IN CARDIFF                                               Room #
+2591      Th         12 pm–3 pm             COLLINS-PORT       3.0     SAN 201
+1415      F           1 pm–4 pm             VILLANE F          3.0     SAN 201
+*FILM 105 Introduction to Media Writing
+-ONLINE
+3056      ONL                               MANSOUR D          3.0      ONLINE
+-OCEANSIDE CAMPUS                                                          Room #
+3055      MW          1 pm–2:15 pm          BOLAND P           3.0     OC 2011
+*FILM 106 Study of Filmed Plays
+-ONLINE
+1417      ONL                               LAYNE T            3.0      ONLINE
+-OCEANSIDE CAMPUS                                                          Room #
+3053      Th          5 pm–8 pm             VILLANE F          3.0     OC 3601
+*FILM 111 Film History I: 1880–1945
+-ONLINE
+2678      ONL                               GUNN B             3.0      ONLINE
+-OCEANSIDE CAMPUS                                                          Room #
+2559      W          12 pm–2:50 pm          GUNN B             3.0     OC 3601
+*FILM 112 Film History II: 1945–Present
+-OCEANSIDE CAMPUS                                                          Room #
+2560      T           5:30 pm–8:20 pm       VILLANE F          3.0     OC 3601
+*FILM 212 Women and Film: Representation and Impact
+-OCEANSIDE CAMPUS                                                          Room #
+2561      W           5 pm–7:50 pm          COLLINS-PORT       3.0     OC 3601
+*FREN 101 Elementary French (First Semester)
+-ONLINE
+1400    ONL                           TOHARIA C        4.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1394    MW        8:30 am–10:50 am    ZAHEDI S         4.0     OC T402
+1396    TTh       9:30 am–11:50 am    HARKER A         4.0     OC 3103
+2244    TTh       1:30 pm–3:50 pm     ARNAUD D         4.0     OC T402
+*FREN 102 Elementary French (Second Semester)
+-ONLINE
+2377    ONL                           DEMEO R          4.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1398    TTh       8:30 am–10:50 am    TOHARIA C        4.0     OC T402
+*FREN 121 Introduction to French Culture
+-ONLINE
+3060    ONL                           TOHARIA C        3.0      ONLINE
+*FREN 201 Intermediate French (Third Semester)
+-OCEANSIDE CAMPUS                                                   Room #
+1402    F         9 am–11:50 am       TOHARIA C        4.0     OC 4701
+& ONL    +2 hours weekly online.                        ONLINE
+*GEOG 101 Physical Geography
+-ONLINE
+1411    ONL                           STAFF            3.0      ONLINE
+1409    ONL                           STAFF            3.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1406    TTh       7:10 am–8:45 am     STERN H          3.0     OC 3103
+1404    MW       10:30 am–11:45 am STERN H             3.0     OC 4529
+1405    TTh      12 pm–1:15 pm        STERN H          3.0     OC 4529
+*GEOG 101L Physical Geography Laboratory
+-OCEANSIDE CAMPUS                                                   Room #
+1410    W         1:30 pm–4:20 pm     STERN H          1.0     OC 4529
+*GEOG 102 Cultural Geography
+-OCEANSIDE CAMPUS                                                   Room #
+1408    MW        3 pm–4:35 pm        STAFF            3.0     OC 3201
+*GEOG 104 World Geography
+-ONLINE
+1820    ONL                           STAFF              3.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+1407    MW        9 am–10:15 am       STERN H            3.0     OC 3102
+*GEOG 108 Environmental Sustainability and Society
+-OCEANSIDE CAMPUS                                                    Room #
+2722    M         6 pm–9:50 pm        STAFF              3.0     OC 3102
+*GEOL 101 Physical Geology
+-ONLINE
+2580    ONL                           FALERO R           3.0      ONLINE
+1430    ONL                           GOMES C            3.0      ONLINE
+1429    ONL                           MELDAHL K          3.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+2723    MW        9 am–10:15 am       TURBEVILLE J       3.0     OC 4529
+1845    TTh      10:30 am–11:45 am    BECK S             3.0     OC 4529
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1433    MW        9 am–10:15 am       STOFFER P          3.0     SAN 406
+*GEOL 101L Physical Geology Laboratory
+-ONLINE
+1431    ONL                           TURBEVILLE J       1.0      ONLINE
+2724    ONL                           TURBEVILLE J       1.0      ONLINE
+1432    ONL                           TURBEVILLE J       1.0      ONLINE
+*GRMN 101 Elementary German (First Semester)
+-OCEANSIDE CAMPUS                                                    Room #
+1418    MW        7:30 pm–9:50 pm     DIEDERICHS B       4.0     OC 3504
+*GRMN 102 Elementary German (Second Semester)
+-OCEANSIDE CAMPUS                                                    Room #
+3061    TTh       7:30 pm–9:50 pm     THULEEN N          4.0     OC 3515
+*GRMN 201 Intermediate German (Third Semester)
+-OCEANSIDE CAMPUS                                                    Room #
+2663    MW        7:30 pm–9:50 pm     THULEEN N          4.0     OC 3515
+*GERO 101 Introduction to Aging
+-ONLINE
+1420    ONL                           PHILLIPS J         3.0       ONLINE
+*GERO 250 Intergenerational Issues
+-ONLINE
+2273    ONL                           PHILLIPS J         3.0       ONLINE
+*HEAL 101 Principles of Health
+-ONLINE
+1426    ONL                           MCFARLAND C        3.0       ONLINE
+1424    ONL                           CONREY M           3.0       ONLINE
+1422    ONL                           BOLDT D            3.0       ONLINE
+1421    ONL                           FULBRIGHT R        3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1423    Th       10:30 am–11:45 am CONREY M              3.0      OC T413
+& ONL    +1 hour 30 minutes weekly online.                 ONLINE
+2088    TTh       7:30 am–8:45 am     BOLDT D            3.0      OC T413
+1425    MW        1:30 pm–2:45 pm     CONREY M           3.0      OC T413
+*HEAL 222 Stress Management
+-OCEANSIDE CAMPUS                                                     Room #
+1840    T         5:30 pm–8:20 pm     CLARK K            3.0      OC T413
+*HEAL 299 Occupational Cooperative Work Experience
+3046    ARRANGED                      STAFF              3.0
+*HIST 100 World History to 1500
+-ONLINE
+1435    ONL                           BOND R             3.0       ONLINE
+1453    ONL                           BOND R             3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1436    MW        9 am–10:15 am       BOND R             3.0      OC 3601
+1462    T         6 pm–8:50 pm        STAFF              3.0      OC 3102
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1434    TTh       9 am–10:15 am       STAFF              3.0     SAN T101
+*HIST 101 World History Since 1500
+-ONLINE
+1457    ONL                           SCOTT JAMES        3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1438    MW       10:30 am–11:45 am    STAFF              3.0      OC 3103
+*HIST 101H World History Since 1500 (Honors)
+-OCEANSIDE CAMPUS                                              Room #
+3174    TTh       9 am–10:15 am       BOND R        3.0   OC 3609
+*HIST 102 History of the Modern Middle East
+-ONLINE
+2749    ONL                           GOLEMO K      3.0     ONLINE
+-OCEANSIDE CAMPUS                                              Room #
+2748    M         6:30 pm–9:40 pm     BOND R        3.0    OC 3103
+*HIST 103 Early European History and Culture
+-ONLINE
+1460    ONL                           SCOTT JAMES   3.0     ONLINE
+-OCEANSIDE CAMPUS                                              Room #
+1454    MW        7:30 am–8:45 am     PERRY B       3.0    OC 3601
+-SAN ELIJO CAMPUS IN CARDIFF                                   Room #
+1439    MW       10:30 am–11:45 am    BALE V        3.0   SAN T101
+*HIST 104 Modern European History and Culture
+-ONLINE
+1440    ONL                           STAFF         3.0     ONLINE
+*HIST 110 United States History to 1877
+-ONLINE
+2391    ONL                           AREVALOS A    3.0     ONLINE
+1445    ONL                           MOORE C       3.0     ONLINE
+1458    ONL                           BYROM B       3.0     ONLINE
+1456    ONL                           GOLEMO K      3.0     ONLINE
+1461    ONL                           BYROM B       3.0     ONLINE
+1957    ONL                           BYROM B       3.0     ONLINE
+3175    ONL                           MOORE C       3.0     ONLINE
+-OCEANSIDE CAMPUS                                              Room #
+1455    MW        7:30 am–8:45 am     STAFF         3.0    OC 3102
+1441    MW       12 pm–1:15 pm        DOIG L        3.0    OC 3103
+2729    TTh       1:30 pm–2:45 pm     STAFF         3.0    OC 3102
+1998    Th        6:30 pm–9:30 pm     SPROUL D      3.0    OC 3103
+1444    W         6:30 pm–9:20 pm     AGUILAR E     3.0    OC 3103
+-SAN ELIJO CAMPUS IN CARDIFF                                   Room #
+1442    MW        9 am–10:15 am       BALE V        3.0   SAN T101
+1443    TTh      10:30 am–11:45 am    DOIG L        3.0   SAN T101
+*HIST 111 United States History Since 1877
+-ONLINE
+1884    ONL                          PERRY B      3.0      ONLINE
+1446    ONL                          MOORE C      3.0      ONLINE
+1452    ONL                          GOLEMO K     3.0      ONLINE
+1924    ONL                          PERRY B      3.0      ONLINE
+1459    ONL                          STAFF        3.0      ONLINE
+2535    ONL                          STAFF        3.0      ONLINE
+-OCEANSIDE CAMPUS                                             Room #
+1447    TTh       7:30 am–8:45 am    STAFF        3.0     OC 3102
+1449    MW       10:30 am–11:45 am   DOIG L       3.0     OC 3601
+1451    MW       12 pm–1:15 pm       BYROM B      3.0     OC 3102
+1448    W         3 pm–5:50 pm       DOIG L       3.0     OC 3102
+-SAN ELIJO CAMPUS IN CARDIFF                                  Room #
+2392    MW        7:30 am–8:45 am    BALE V       3.0    SAN T101
+1450    TTh      12 pm–1:15 pm       STAFF        3.0    SAN T101
+1463    TTh       1:30 pm–2:45 pm    DOIG L       3.0    SAN T101
+*HIST 115 Women in American History
+-OCEANSIDE CAMPUS                                             Room #
+2271    MW        9 am–10:15 am      DOIG L       3.0     OC 3103
+*HIST 116 History of the Americas to 1830
+-ONLINE
+1464    ONL                          AREVALOS A   3.0      ONLINE
+*HIST 141 Mexican American History Through 1877
+-OCEANSIDE CAMPUS                                             Room #
+1465    TTh       1:30 pm–2:45 pm    AGUILAR E    3.0     OC 3103
+*HIST 146 African American History Since 1877
+-OCEANSIDE CAMPUS                                             Room #
+1466    MW        4:30 pm–5:45 pm    AGUILAR E    3.0    OC 3205
+*HIST 165 California History
+-OCEANSIDE CAMPUS                                             Room #
+2272    MW       10:30 am–11:45 am   BYROM B      3.0     OC 3102
+*HORT 115 Soil Science
+-OCEANSIDE CAMPUS                                             Room #
+1467    Th        5 pm–9:50 pm       ALLISON M    3.0    OC 7053
+*HORT 116 Plant Science
+-OCEANSIDE CAMPUS                                                    Room #
+1469    MW        2 pm–5 pm            MESSINA J          4.0     OC 7053
+1471    W         5:30 pm–8:20 pm      EHRLINGER C        4.0     OC 7053
+& ONL     +3 hours weekly online.                          ONLINE
+*HORT 117 Plant Identification: Trees, Shrubs, and Vines
+-OCEANSIDE CAMPUS                                                    Room #
+1473    ONL                            EHRLINGER C        3.0      ONLINE
+&F        1 pm–3:50 pm                                    OC 7051
+*HORT 118 Arboriculture
+-OCEANSIDE CAMPUS                                                    Room #
+2372    T         6 pm–8:50 pm         PALAT M            3.0     OC 7053
+*HORT 122 Horticulture Laws and Regulations
+-OCEANSIDE CAMPUS                                                    Room #
+3077    M         5 pm–7:05 pm         GERSON J           2.0     OC 7053
+*HORT 126 Irrigation and Water Management
+-OCEANSIDE CAMPUS                                                    Room #
+1475    M         4:30 pm–9:55 pm      EHRLINGER C        3.0     OC 7051
+*HORT 127 Landscape Design
+-OCEANSIDE CAMPUS                                                    Room #
+1479    T         5 pm–9:50 pm         ALLISON M          3.0     OC 7051
+*HORT 128 Landscape Construction
+-OCEANSIDE CAMPUS                                                    Room #
+2373    Th        4:55 pm–10 pm        BROWN R            3.0     OC 7051
+*HORT 144 Nursery Management and Production
+-OCEANSIDE CAMPUS                                                    Room #
+1477    M         7:30 pm–9:35 pm      STAFF              3.0     OC 7053
+&S        8 am–11 am                                      OC 7053
+*HORT 147 Wines of California
+-OCEANSIDE CAMPUS                                                    Room #
+3078    F         6 pm–7:25 pm         NELSON A           1.5     OC 7053
+*HORT 164 Organic Crop Production: Cool Season
+-OCEANSIDE CAMPUS                                                    Room #
+3079    F         9 am–1 pm            FERRIERI A         2.0     OC 7053
+*HORT 166 Introduction to Sustainable Agriculture
+-OCEANSIDE CAMPUS                                                    Room #
+3081    M        11 am–2:10 pm         ALLISON M          3.0     OC 7051
+*HORT 220 Computer-Aided Landscape Design Applications
+-OCEANSIDE CAMPUS                                                     Room #
+3082    W         5 pm–9:50 pm        STAFF              3.0      OC 7051
+*HORT 299 Occupational Cooperative Work Experience
+2645    ARRANGED                      STAFF              3.0
+*HOSP 100 Introduction to Hospitality Management
+-OCEANSIDE CAMPUS                                                     Room #
+2469    T         5 pm–6:20 pm        STAFF              3.0      OC T430
+& ONL    +1 hour 30 minutes weekly online.                 ONLINE
+*HOSP 110 Guest Services and Presentations
+-OCEANSIDE CAMPUS                                                     Room #
+2508    Th        5 pm–6:20 pm        STAFF              3.0     OC 3205
+& ONL    +1 hour 30 minutes weekly online.                 ONLINE
+*HOSP 120 Hospitality Human Resources Management
+-ONLINE
+1846    ONL                           STAFF              3.0       ONLINE
+*HOSP 125 Recreation, Parks, and Leisure Management
+-ONLINE
+2507    ONL                           STAFF              3.0       ONLINE
+*HOSP 128 Hospitality Marketing
+-ONLINE
+1847    ONL                           STAFF              3.0       ONLINE
+*HOSP 134 Sustainable Facilities Management
+-ONLINE
+1481    ONL                           STAFF              3.0       ONLINE
+*HOSP 150 Basics of Purchasing
+-OCEANSIDE CAMPUS                                                     Room #
+1848    W         5 pm–6:20 pm        STAFF              3.0      OC T430
+& ONL    +1 hour 30 minutes weekly online.                 ONLINE
+*HOSP 299 Occupational Cooperative Work Experience
+3038     ARRANGED                      STAFF              3.0
+*HUMN 101 Introduction to the Arts
+-OCEANSIDE CAMPUS                                                      Room #
+1482     W         6 pm–8:50 pm        KIRWAN J           3.0      OC 3607
+*HUMN 201 Humanities of the Western World: Pre-History Through the
+-SAN ELIJO CAMPUS IN CARDIFF                                           Room #
+2385     TTh       9 am–10:15 am       MONTAGNA K         3.0      SAN 203
+*ITAL 101 Elementary Italian (First Semester)
+-ONLINE
+1929     ONL                           PETRI A            4.0       ONLINE
+-OCEANSIDE CAMPUS                                                      Room #
+1487     TTh       9:30 am–11:50 am    PETRI A            4.0      OC 3515
+1483     MW       11 am–1:20 pm        ACCOMANDO J        4.0      OC T402
+*ITAL 102 Elementary Italian (Second Semester)
+-ONLINE
+1485     ONL                           ASTARITA A         4.0       ONLINE
+*ITAL 201 Intermediate Italian (Third Semester)
+-ONLINE
+1489     ONL                           PETRI A            4.0       ONLINE
+*JAPN 101 Elementary Japanese (First Semester)
+-OCEANSIDE CAMPUS                                                   Room #
+2585    MW        9:30 am–11:50 am    STAFF            4.0     OC 3504
+2193    TTh      11 am–1:20 pm        STAFF            4.0     OC T402
+1491    MW        1:30 pm–3:50 pm     STAFF            4.0     OC T402
+2352    TTh       4 pm–6:20 pm        STAFF            4.0     OC T402
+*JAPN 102 Elementary Japanese (Second Semester)
+-OCEANSIDE CAMPUS                                                   Room #
+2018    TTh      12 pm–2:20 pm        STAFF            4.0     OC 3504
+*JAPN 121 Introduction to Japanese Culture
+-ONLINE
+3444    ONL                           STAFF            3.0      ONLINE
+*JAPN 201 Intermediate Japanese (Third Semester)
+-OCEANSIDE CAMPUS                                                   Room #
+2112    MW        2:30 pm–4:50 pm     STAFF            4.0     OC 3606
+*KINE 100 Functional Resistance Training
+-OCEANSIDE CAMPUS                                                   Room #
+2038    TTh       7:30 am–8:45 am     CONAHAN P        1.0     OC 5004
+2311    TTh      10:30 am–11:45 am    FULBRIGHT R      1.0     OC 5004
+2039    TTh       3 pm–4:15 pm        CLARK K          1.0     OC 4100
+*KINE 110 Walking for Fitness
+-ONLINE
+1917    ONL                           FULBRIGHT R      1.0      ONLINE
+*KINE 112 Cardiorespiratory Stabilization Training
+-OCEANSIDE CAMPUS                                                   Room #
+2151    MW        8 am–9:35 am        KRAMER A         1.0     OC 4100
+*KINE 113 Cardiorespiratory Strength Training
+-OCEANSIDE CAMPUS                                                   Room #
+2420    MW        8 am–9:35 am        KRAMER A         1.0     OC 4100
+*KINE 114 Cardiorespiratory Power Training
+-OCEANSIDE CAMPUS                                                   Room #
+2421    MW        8 am–9:35 am        KRAMER A         1.0     OC 4100
+*KINE 141 Stabilization Weight Training
+-OCEANSIDE CAMPUS                                                    Room #
+2184    TTh       1:30 pm–2:45 pm     CLARK K            1.0     OC 4100
+*KINE 143 Strength Endurance Weight Training
+-OCEANSIDE CAMPUS                                                    Room #
+2312    TTh       9 am–10:15 am       JACOBS A           1.0     OC 4100
+2313    MW       10:30 am–11:45 am    HACKETT J          1.0     OC 4100
+*KINE 144 Reactive Weight Training
+-OCEANSIDE CAMPUS                                                    Room #
+2314    MW       12 pm–1:15 pm        HACKETT J          1.0     OC 4100
+*KINE 145 Yoga Teacher Training Foundation
+-OCEANSIDE CAMPUS                                                    Room #
+1915    TTh      10:30 am–12:20 pm WHEATLEY A            3.0     OC 5101
+& ONL    +2 hours 5 minutes weekly online.                ONLINE
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1495    MW        3:30 pm–5:20 pm     KRIEBEL A          3.0     SAN 204
+& ONL    +2 hours 5 minutes weekly online.                ONLINE
+*KINE 147 Yoga Teacher Training Development
+-OCEANSIDE CAMPUS                                                    Room #
+2209    TTh       1:30 pm–3:20 pm     MCFARLAND C        3.0     OC 5101
+& ONL    +2 hours 5 minutes weekly online.                ONLINE
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+2573    MW        1:30 pm–3:20 pm     MCFARLAND C        3.0     SAN 204
+& ONL    +2 hours 5 minutes weekly online.                ONLINE
+*KINE 149 Yoga Teacher Training Integration
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+2046    TTh      11 am–3:35 pm        MCCARTHY S         3.0     SAN 204
+& ONL    +2 hours 25 minutes weekly online.               ONLINE
+*KINE 150 Beginning Yoga
+-OCEANSIDE CAMPUS                                                    Room #
+2186    TTh       9 am–10:15 am       WHEATLEY A         1.0     OC 5101
+2185    MW        4 pm–5:15 pm        KRAMER A           1.0     OC 5101
+2889    MW        5:30 pm–6:45 pm     SHIMABUKURO        1.0     OC 5101
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+2660    TTh       9 am–10:35 am       LU-ANDERSON        1.0     SAN 204
+2188    MW       12 pm–1:15 pm        MCFARLAND C        1.0     SAN 204
+2187    TTh       3:45 pm–5:20 pm     LU-ANDERSON        1.0     SAN 204
+2189    MW        5:30 pm–7:05 pm     KRIEBEL A          1.0     SAN 204
+*KINE 154 Intermediate Yoga
+-OCEANSIDE CAMPUS                                                 Room #
+2333    TTh       9 am–10:15 am       WHEATLEY A     1.0     OC 5101
+2331    MW        5:30 pm–6:45 pm     SHIMABUKURO    1.0     OC 5101
+-SAN ELIJO CAMPUS IN CARDIFF                                      Room #
+2509    TTh       9 am–10:35 am       LU-ANDERSON    1.0     SAN 204
+2334    MW       12 pm–1:15 pm        MCFARLAND C    1.0     SAN 204
+2336    TTh       3:45 pm–5:20 pm     LU-ANDERSON    1.0     SAN 204
+2335    MW        5:30 pm–7:05 pm     KRIEBEL A      1.0     SAN 204
+*KINE 155 Advanced Yoga
+-OCEANSIDE CAMPUS                                                 Room #
+2510    TTh       9 am–10:15 am       WHEATLEY A     1.0     OC 5101
+2332    MW        5:30 pm–6:45 pm     SHIMABUKURO    1.0     OC 5101
+-SAN ELIJO CAMPUS IN CARDIFF                                      Room #
+3333    TTh       9 am–10:35 am       LU-ANDERSON    1.0     SAN 204
+3330    MW       12 pm–1:15 pm        MCFARLAND C    1.0     SAN 204
+3332    TTh       3:45 pm–5:20 pm     LU-ANDERSON    1.0     SAN 204
+3331    MW        5:30 pm–7:05 pm     KRIEBEL A      1.0     SAN 204
+*KINE 156 Corrective Flexibility Training
+-OCEANSIDE CAMPUS                                                 Room #
+2470    MW        7:30 am–8:45 am     CLARK K        1.0     OC 5004
+*KINE 157 Active Flexibility Training
+-OCEANSIDE CAMPUS                                                 Room #
+2471    MW        7:30 am–8:45 am     CLARK K        1.0     OC 5004
+*KINE 158 Functional Flexibility Training
+-OCEANSIDE CAMPUS                                                 Room #
+2472    MW        7:30 am–8:45 am     CLARK K        1.0     OC 5004
+*KINE 159 Yoga Teacher Training Implementation
+-SAN ELIJO CAMPUS IN CARDIFF                                      Room #
+2418    TTh      11 am–3:35 pm        MCCARTHY S     3.0     SAN 204
+& ONL    +2 hours 25 minutes weekly online.           ONLINE
+*KINE 161 Beginning Martial Arts
+-OCEANSIDE CAMPUS                                                 Room #
+2337    TTh       9 am–10:15 am       FULBRIGHT R    1.0     OC GYM
+*KINE 162 Intermediate Martial Arts
+-OCEANSIDE CAMPUS                                                 Room #
+2190    TTh       9 am–10:15 am       FULBRIGHT R    1.0     OC GYM
+*KINE 163 Advanced Martial Arts
+-OCEANSIDE CAMPUS                                                     Room #
+2338    TTh       9 am–10:15 am       FULBRIGHT R        1.0     OC GYM
+*KINE 190 Introduction to Kinesiology
+-ONLINE
+2602    ONL                           FULBRIGHT R        3.0       ONLINE
+1878    ONL                           FULBRIGHT R        3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1493    TTh      12 pm–1:15 pm        MCFARLAND C        3.0      OC T413
+1899    MW        4:30 pm–5:45 pm     BAKER T            3.0      OC T413
+*KINE 200 Physical Education in the Elementary School
+-ONLINE
+1877    ONL                           FULBRIGHT R        3.0       ONLINE
+*KINE 203 Techniques in Athletic Training
+-OCEANSIDE CAMPUS                                                     Room #
+1497    MW        9 am–11:20 am       JACOBS A           3.0      OC 5101
+*KINE 204 Techniques and Analysis of Fitness and Weight Training
+-ONLINE
+1889    ONL                           FULBRIGHT R        3.0       ONLINE
+1990    ONL                           BAKER T            3.0       ONLINE
+& MW      6 pm–7:20 pm                                   OC 5004
+*KINE 210 Exercise Prescription for Special Populations
+-ONLINE
+1494    ONL                           WHEATLEY A         3.0       ONLINE
+*KINE 299 Occupational Cooperative Work Experience
+3039    ARRANGED                      STAFF              3.0
+*LRNS 40 Educational Planning and Assessment
+-OCEANSIDE CAMPUS                                                     Room #
+1718    ARRANGED                      SCHAEFER N         .5      OC 3005
+*LRNS 42 Strategies Designed for Students with Learning Disabilities:
+-OCEANSIDE CAMPUS                                                     Room #
+1719    TTh      10:30 am–11:45 am    SCHAEFER N         3.0     OC 3005
+*LRNS 46 English Essentials Designed for Students with Learning
+-OCEANSIDE CAMPUS                                                     Room #
+1717    TTh       9 am–10:15 am       SCHAEFER N         3.0     OC 3005
+*LIBR 101 College Research Skills
+-ONLINE
+1892    ONL                            MA R            1.0     ONLINE
+1992    ONL                            PERRY P         1.0     ONLINE
+1811    ONL                            DEINEH S        1.0     ONLINE
+*LIBR 201 Research in the Digital Age
+-ONLINE
+2077    ONL                            MCFALL L        3.0     ONLINE
+*LING 110 English Language Structure and Function
+-OCEANSIDE CAMPUS                                                  Room #
+1499    MW        10:30 am–11:45 am    DARA -          3.0    OC 3607
+*LIT 101 Introduction to Asian American Literature
+-OCEANSIDE CAMPUS                                                  Room #
+3098    TTh       12 pm–1:15 pm        HIDLE J         3.0    OC 3512
+*LIT 120 Introduction to Literature
+-OCEANSIDE CAMPUS                                                  Room #
+1500    MW         9 am–10:15 am       DARA -          3.0    OC 3607
+1502    T          6 pm–8:50 pm        CRUM J          3.0    OC T306
+-SAN ELIJO CAMPUS IN CARDIFF                                       Room #
+1501    TTh        1:30 pm–2:45 pm     STARK H         3.0    SAN 203
+*LIT 250 American Literature: First Contact Through the Civil War
+-OCEANSIDE CAMPUS                                                  Room #
+1503    MW        12 pm–1:15 pm        HOMER S         3.0    OC 3607
+*LIT 260 English Literature Through the 18th Century
+-SAN ELIJO CAMPUS IN CARDIFF                                       Room #
+1504    MW        12 pm–1:15 pm        HERRMANN S      3.0    SAN 308
+*LIT 270 World Literature to 1600
+-OCEANSIDE CAMPUS                                                       Room #
+1505    TTh      10:30 am–11:45 am      KIRWAN J           3.0      OC 3607
+*MASG 210 Therapeutic Massage Development
+-OCEANSIDE CAMPUS                                                       Room #
+1427    MWF       8 am–11:35 am         WHITFIELD K        3.0      OC T413
+*MASG 215 Massage Clinical Practicum
+-OCEANSIDE CAMPUS                                                       Room #
+2339    S         8 am–9:50 am          BARBERA A          3.0      OC 5004
+&S       10 am–1:05 pm                                      OC GYM
+*MASG 220 Sports Massage
+-OCEANSIDE CAMPUS                                                       Room #
+1841    MWF       8 am–10:05 am         WHITFIELD K        3.0      OC GYM
+& MWF 10:05 am–11:25 am                                     OC T413
+*MASG 230 Therapeutic Massage Integration
+-OCEANSIDE CAMPUS                                                       Room #
+2182    MWF       8 am–11:35 am         WHITNEY T          3.0      OC GYM
+*MASG 240 Therapeutic Massage Implementation
+-OCEANSIDE CAMPUS                                                       Room #
+3495    MWF       8 am–11:25 am         WHITNEY T          3.0      OC T413
+*MASG 250 Therapeutic Massage for Special Populations
+-OCEANSIDE CAMPUS                                                       Room #
+2576    F        12 pm–5:25 pm          BARBERA A          3.0      OC T413
+*MATH 28 Math Fundamentals I
+-OCEANSIDE CAMPUS                                                       Room #
+2453    TTh       7:30 am–9:50 am       RAYAN M            4.0      OC 3517
+2455    MTWTh 11:30 am–12:40 pm PICKETT B                  4.0      OC 3517
+2569    MTWTh     1 pm–2:10 pm          PICKETT B          4.0      OC 3517
+3189    MTWTh     1:25 pm–2:35 pm       STAFF              4.0      OC 4809
+2571    MW        5 pm–7:20 pm          MERCADO S          4.0      OC 3517
+2778    MW        7:30 pm–9:50 pm       GUERRERO L         4.0      OC 3517
+-SAN ELIJO CAMPUS IN CARDIFF                                            Room #
+2764    TTh       8:30 am–10:50 am      STAFF              4.0      SAN 305
+*MATH 30 Elementary Algebra
+-ONLINE
+1743    ONL                                  CONGLETON C       4.0       ONLINE
+-OCEANSIDE CAMPUS                                                           Room #
+1745    MTWTh      7 am–8:50 am              DUNBAR K          4.0     OC 3508
+1742    MW         3:30 pm–5:20 pm           STAFF             4.0     OC 3509
+3165    MW         4:30 pm–6:20 pm           ZAHEDANI H        4.0     OC 7004
+1744    MTWTh      1:30 pm–3:35 pm           WEZNIAK S         4.0      CLC 101
+*MATH 31 Support for Statistics
+-OCEANSIDE CAMPUS                                                           Room #
+3141    F         11 am–12:50 pm             TRANG V           1.0     OC 3509
+3143    W          1 pm–2:50 pm              FIROUZIAN S       1.0     OC 7005
+3340    T          1 pm–2:50 pm              POWELL B          1.0     OC 7005
+3139    MW         7:30 pm–8:20 pm           STAFF             1.0     OC 3508
+-SAN ELIJO CAMPUS IN CARDIFF                                                Room #
+3147    W         10:30 am–12:20 pm          MARISCAL P        1.0      SAN 501
+3145    TTh        7 pm–7:50 pm              HUMACIU M         1.0     SAN 304
+*MATH 32 Support for Intermediate Algebra
+-OCEANSIDE CAMPUS                                                           Room #
+3155    TTh        9:30 am–11:20 am          SAFARALIAN L      2.0     OC 3507
+3157    TTh       11:30 am–1:20 pm           STAFF             2.0     OC 3507
+3161    TTh        1:30 pm–3:20 pm           BONDS D           2.0     OC 7004
+3159    TTh        5 pm–6:50 pm              NGUYEN V          2.0     OC 7005
+-SAN ELIJO CAMPUS IN CARDIFF                                                Room #
+2816    MW         8:30 am–10:20 am          MARISCAL P        2.0      SAN 501
+2818    TTh       11 am–12:50 pm             CHANTRILL C       2.0     SAN 304
+*MATH 34 Intermediate Algebra—Learning Assistance for Calculus
+-OCEANSIDE CAMPUS                                                        Room #
+3149    F           7:30 am–9:20 am     STAFF              2.0      OC 3507
+-SAN ELIJO CAMPUS IN CARDIFF                                             Room #
+3150    TTh         3 pm–3:50 pm        KASHYAP N          2.0       SAN 304
+3151    W           9 am–10:50 am       LAUREL M           2.0       CLC 121
+*MATH 36 Intermediate Algebra—Learning Assistance for
+-OCEANSIDE CAMPUS                                                        Room #
+3154    F           2 pm–3:50 pm        STAFF              2.0      OC 3507
+3153    W           3 pm–4:50 pm        STAFF              2.0      OC 7005
+3166    TTh         7:30 pm–8:20 pm     STAFF              2.0      OC 3509
+3152    MW          8:30 pm–9:20 pm     ZAHEDANI H         2.0      OC 7004
+*MATH 64 Intermediate Algebra
+-ONLINE
+2243    ONL                             BONDS D            4.0        ONLINE
+1983    ONL                             NAKAMURA L         4.0        ONLINE
+1824    ONL                             NAKAMURA L         4.0        ONLINE
+1758    ONL                             NAKAMURA L         4.0        ONLINE
+-OCEANSIDE CAMPUS                                                        Room #
+1748    F           9 am–10:50 am       DUBININ S          4.0      OC 3517
+& ONL      +2 hours weekly online.                            ONLINE
+1751    F          11 am–12:50 pm       DUBININ S          4.0      OC 3517
+& ONL      +2 hours weekly online.                            ONLINE
+2534    MTWTh       7 am–8:50 am        DUNBAR K           4.0      OC 3508
+1749    MW          9:30 am–11:20 am    SAFARALIAN L       4.0      OC 3507
+1785    TTh        11:30 am–1:20 pm     BONDS D            4.0      OC 7004
+2533    MW         11:30 am–1:20 pm     STAFF              4.0      OC 3507
+1783    TTh         1 pm–2:50 pm        STAFF              4.0      OC 3508
+*MATH 64 Intermediate Algebra (continued)
+-OCEANSIDE CAMPUS                                                        Room #
+1746    TTh         3:30 pm–5:20 pm     STAFF              4.0      OC 3509
+2834    MW          5 pm–6:50 pm        NGUYEN V           4.0      OC 7005
+-SAN ELIJO CAMPUS IN CARDIFF                                             Room #
+1772    TTh         8:30 am–10:20 am    MARISCAL E         4.0       SAN 501
+1782    MW         11 am–12:50 pm       CHANTRILL C        4.0       SAN 304
+1773    MW          5:30 pm–7:20 pm     KASHYAP N          4.0       SAN 304
+1750    MTWTh       1:30 pm–3:35 pm     STAFF              4.0       CLC 101
+*MATH 102 Math Fundamentals II: Mathematics for Life
+-OCEANSIDE CAMPUS                                                        Room #
+2499    MW          7:30 am–9:50 am     MORROW S           4.0      OC  3517
+2497    MTWTh      10 am–11:10 am       STAFF              4.0      OC  3517
+3134    MW          2:30 pm–4:50 pm     MORROW S           4.0      OC  3517
+2768    TTh         2:30 pm–4:50 pm     FALLSTROM S        4.0      OC  3517
+2770    TTh         5 pm–7:20 pm        GARBANATI D        4.0      OC  3517
+3132    TTh         7:30 pm–9:50 pm     GUERRERO L         4.0      OC  3517
+-SAN ELIJO CAMPUS IN CARDIFF                                             Room #
+3163    MW          8:30 am–10:50 am    FERREIRAE K        4.0       SAN 305
+2772    TTh         8:30 am–10:50 am    FERREIRAE K        4.0       SAN 304
+*MATH 103 Statistics
+-ONLINE
+1825    ONL                             MARISCAL P         4.0        ONLINE
+1762    ONL                             POWELL B           4.0        ONLINE
+1760    ONL                             MYERS S            4.0        ONLINE
+2211    ONL                             MYERS S            4.0        ONLINE
+-OCEANSIDE CAMPUS                                                        Room #
+2452    T           3 pm–4:50 pm        GARBANATI D        4.0      OC 7005
+& ONL      +2 hours weekly online.                            ONLINE
+1761    F           9 am–10:50 am       NELIPOVICH J       4.0      OC 3508
+& ONL      +2 hours weekly online.                            ONLINE
+2766    TTh         7 am–8:50 am        STAFF              4.0      OC 3507
+1763    MW          9 am–10:50 am       DUNBAR K           4.0      OC 3508
+3131    MW         11 am–12:50 pm       TRANG V            4.0      OC 3509
+1759    MTh         1 pm–2:50 pm        FIROUZIAN S        4.0      OC 7005
+1764    MW          5 pm–6:50 pm        SAADAT A           4.0      OC 3507
+*MATH 28          Math Fundamentals I                           MATH 106    Concepts & Stru
+*MATH 30          Elementary Algebra
+*MATH 112    Mathematical A
+*MATH 31          Support for Statistics
+*MATH 115    Calculus with Ap
+*MATH 32          Support for Intermediate Algebra
+*MATH 126    Pre-Calculus I: C
+*MATH 34          Intermediate Algebra—Learning Assistance
+*MATH 36          Intermediate Algebra—Learning Assistance      MATH 226    Discrete Mathem
+*MATH 150    Calculus & Anal
+*MATH 64          Intermediate Algebra
+*MATH 155    Calculus & Anal
+*MATH 102         Math Fundamentals II (formerly MATH 95)
+*MATH 260    Calculus & Anal
+*MATH 103§ Statistics
+*MATH 265    Differential Equa
+*MATH 105         Concepts & Structures of
+*MATH 270    Linear Algebra
+*MATH 103 Statistics (continued)
+-OCEANSIDE CAMPUS                                                            Room #
+3168    MW          5:30 pm–7:20 pm          STAFF             4.0     OC 3508
+2568    MW          7 pm–8:50 pm             STAFF             4.0     OC 7005
+3167    MW          7:30 pm–9:20 pm          STAFF             4.0     OC 3509
+-SAN ELIJO CAMPUS IN CARDIFF                                                 Room #
+2767    MTh        10:30 am–12:20 pm MARISCAL P                4.0      SAN 501
+2551    MW          1:30 pm–3:20 pm          STAFF             4.0      SAN 304
+2552    TTh         5 pm–6:50 pm             HUMACIU M         4.0      SAN 304
+1781    TTh         5:30 pm–7:20 pm          STAFF             4.0      SAN 305
+*MATH 105 Concepts and Structures of Elementary Mathematics I
+-OCEANSIDE CAMPUS                                                            Room #
+2465    MW          1:30 pm–3:50 pm          STAFF             3.0     OC 7004
+*MATH 115 Calculus with Applications
+-ONLINE
+1823    ONL                                  MERCADO S         4.0       ONLINE
+-OCEANSIDE CAMPUS                                                            Room #
+1767    MW          7:30 am–9:20 am          STAFF             4.0     OC 3507
+1766    MTWTh       8:15 am–9:20 am          KOMANCHECK J      4.0     OC 7004
+3130    TTh        11 am–12:50 pm            FIROUZIAN S       4.0     OC 3508
+1765    MW          1:30 pm–3:20 pm          RIVERA J          4.0     OC 3509
+2451    MW          7:30 pm–9:20 pm          SAADAT A          4.0     OC 3507
+-SAN ELIJO CAMPUS IN CARDIFF                                                 Room #
+1784    MW         11 am–12:50 pm            NODDINGS V        4.0      SAN 305
+2450    TTh         1 pm–2:50 pm             KASHYAP N         4.0      SAN 304
+2813    MTh         9 am–10:50 am            LAUREL M          4.0      CLC 121
+*MATH 126 Pre-Calculus I: College Algebra
+-ONLINE
+2464    ONL                                  BELTRAN-AGUI      4.0       ONLINE
+3128    ONL                                  BELTRAN-AGUI      4.0       ONLINE
+2305    ONL                                  MYERS S           4.0       ONLINE
+2306    ONL                                  SAFARALIAN L      4.0       ONLINE
+*MATH 126 Pre-Calculus I: College Algebra (continued)
+-OCEANSIDE CAMPUS                                                        Room #
+2297    MTWTh       7 am–8:05 am        KOMANCHECK J 4.0            OC 7004
+2296    MTWTh       8 am–10:05 am       PICKETT B          4.0      OC 3509
+2298    MW          9:30 am–11:20 am    STAFF              4.0      OC 7004
+2299    TTh         1:30 pm–3:20 pm     WILLIAMSON G       4.0      OC 3509
+2294    MW          2 pm–3:50 pm        WILKINSON J        4.0      OC 3507
+2302    MTh         3 pm–4:50 pm        STAFF              4.0      OC 7005
+2295    TTh         5 pm–6:50 pm        SNELLMAN R         4.0      OC 7004
+2300    TTh         5 pm–6:50 pm        WILKINSON J        4.0      OC 3507
+2303    TTh         5:30 pm–7:20 pm     ZIADE E            4.0      OC 3509
+2301    MW          6:30 pm–8:20 pm     ZAHEDANI H         4.0      OC 7004
+-SAN ELIJO CAMPUS IN CARDIFF                                             Room #
+2304    TTh        11 am–12:50 pm       STAFF              4.0       SAN 305
+2628    MW         12 pm–1:50 pm        LAUREL M           4.0       CLC 105
+*MATH 131 Pre-Calculus II: Trigonometry and Analytic Geometry
+-ONLINE
+2448    ONL                             HEADLEE M          4.0        ONLINE
+3129    ONL                             HEADLEE M          4.0        ONLINE
+-OCEANSIDE CAMPUS                                                        Room #
+2293    MTWTh       8 am–10:05 am       PICKETT B          4.0      OC 3509
+2447    MW         11:30 am–1:20 pm     UDUPA S            4.0      OC 7004
+2445    TTh         2 pm–3:50 pm        BELTRAN-AGUI       4.0      OC 3507
+2446    TTh         7:30 pm–9:20 pm     WILKINSON J        4.0      OC 3507
+-SAN ELIJO CAMPUS IN CARDIFF                                             Room #
+2449    MW          9 am–10:50 am       NODDINGS V         4.0       SAN 304
+*MATH 150 Calculus and Analytic Geometry I
+-ONLINE
+2504    ONL                             POWELL B           5.0        ONLINE
+2914    ONL                             POWELL B           5.0        ONLINE
+*MATH 150 Calculus and Analytic Geometry I (continued)
+-OCEANSIDE CAMPUS                                                           Room #
+1769    MTWTh     10 am–11:05 am             HEADLEE M          5.0     OC 7005
+1779    TTh       11 am–1:20 pm              BELTRAN-AGUI       5.0     OC 3509
+1925    TTh        7 pm–9:20 pm              SNELLMAN R         5.0     OC 7004
+-SAN ELIJO CAMPUS IN CARDIFF                                                Room #
+2444    MW         1 pm–3:20 pm              NODDINGS V         5.0     SAN 305
+2443    TTh        5 pm–7:20 pm              HA W               5.0     SAN 501
+2503    TTh       11 am–1:20 pm              LAUREL M           5.0     CLC 121
+*MATH 150H Calculus and Analytic Geometry (Honors)
+-OCEANSIDE CAMPUS                                                           Room #
+3136    MW         3 pm–5:20 pm              PEROVIC Z          5.0     OC 3508
+*MATH 155 Calculus and Analytic Geometry II
+-ONLINE
+2505    ONL                                  BONDS D            4.0      ONLINE
+-OCEANSIDE CAMPUS                                                           Room #
+1770    MTWTh      8:45  am–9:50 am          HEADLEE M          4.0     OC  7005
+3169    TTh        9:30 am–11:20 am          BONDS D            4.0     OC  7004
+1926    MW         5:30 pm–7:20 pm           NAKAMURA L         4.0     OC  3509
+1777    TTh        5:30 pm–7:20 pm           WILLIAMS C         4.0     OC  3508
+-SAN ELIJO CAMPUS IN CARDIFF                                                Room #
+1775    TTh        1 pm–2:50 pm              BERTENS M          4.0     SAN 305
+2442    MW         3:30 pm–5:20 pm           MYERS S            4.0     SAN 501
+*MATH 226 Discrete Mathematics
+-SAN ELIJO CAMPUS IN CARDIFF                                                Room #
+1786    TTh        1 pm–2:50 pm              PEROVIC Z          4.0     SAN 501
+*MATH 260 Calculus and Analytic Geometry III
+-OCEANSIDE CAMPUS                                                           Room #
+2619    TTh        9 am–10:50 am             DUNBAR K           4.0     OC 3508
+1771    MTWTh     11:30 am–12:35 pm          HEADLEE M          4.0     OC 7005
+1999    TTh        7 pm–8:50 pm              ATMAI R            4.0     OC 7005
+-SAN ELIJO CAMPUS IN CARDIFF                                                Room #
+1776    TTh        3 pm–4:50 pm              PEROVIC Z          4.0     SAN 501
+*MATH 265 Differential Equations
+-OCEANSIDE CAMPUS                                                   Room #
+1774    MW        11 am–12:50 pm       PEROVIC Z      4.0      OC 3508
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+2000    TTh        3 pm–4:50 pm        STAFF          4.0      SAN 305
+*MATH 270 Linear Algebra
+-OCEANSIDE CAMPUS                                                   Room #
+1780    MW         1 pm–2:50 pm        NAKAMURA L     4.0      OC 3508
+2001    TTh        3 pm–4:50 pm        WILLIAMS C     4.0      OC 3508
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+2567    MW         1 pm–2:50 pm        MYERS S        4.0      SAN 501
+*MAT 105 History of Graphic Design
+-ONLINE
+2656    ONL                            KELLEY G       3.0       ONLINE
+2655    ONL                            KELLEY G       3.0       ONLINE
+*MAT 110 Digital Imaging 1: Adobe Photoshop
+-ONLINE
+2091    ONL                            TERRY M        3.0       ONLINE
+2028    ONL                            JACKSON T      3.0       ONLINE
+2026    ONL                            THORNHILL M    3.0       ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+2020    TTh        9:30 am–11:20 am    MALONE J       3.0      OC 4607
+2022    W          1:30 pm–5:20 pm     JACKSON T      3.0      OC 4607
+2024    Th         5:30 pm–9:30 pm     SILVEN N       3.0      OC 4607
+*MAT 120 Media Design 1: Production
+-OCEANSIDE CAMPUS                                                   Room #
+1506    MW        11:30 am–1:20 pm     UHLIK J        3.0      OC 4622
+1960    T          5:30 pm–8:20 pm     COTNOIR L      3.0      OC 4607
+& ONL     +1 hour weekly online.                        ONLINE
+*MAT 125 Web Design 1: Fundamentals
+-ONLINE
+2100    ONL                            FAULK C        3.0       ONLINE
+1510    ONL                            COTNOIR L      3.0       ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1508    TTh        9:30 am–11:20 am    CLEVELAND K    3.0      OC 4610
+*MAT 135 Graphic Design 1: Principles
+-ONLINE
+1520    ONL                           UHLIK J       3.0    ONLINE
+-OCEANSIDE CAMPUS                                             Room #
+1512    MW        9:30 am–11:20 am    UHLIK J       3.0   OC 4622
+& ONL    +1 hour weekly online.                    ONLINE
+2657    TTh      11:30 am–1:20 pm     COTNOIR L     3.0   OC 4622
+& ONL    +1 hour weekly online.                    ONLINE
+*MAT 140 3D Animation 1: Maya
+-OCEANSIDE CAMPUS                                             Room #
+2261    M         5:30 pm–9:50 pm     O’BRIEN A     3.0   OC 4610
+*MAT 150 Animation and Interactivity
+-ONLINE
+1516    ONL                           CLEVELAND K   3.0    ONLINE
+*MAT 155 Graphic Design 2: Typography
+-OCEANSIDE CAMPUS                                             Room #
+1524    TTh       9:30 am–11:20 am    CHOI M        3.0   OC 4622
+& ONL    +1 hour weekly online.                    ONLINE
+*MAT 160 Video 1: Production
+-OCEANSIDE CAMPUS                                             Room #
+1518    M         1:30 pm–5:50 pm     UHLIK J       3.0   OC 4622
+*MAT 165 Web Design 2: Tools and Techniques
+-OCEANSIDE CAMPUS                                             Room #
+1514    T         1:30 pm–3:20 pm     CLEVELAND K   3.0   OC 4610
+& ONL    +3 hours weekly online.                   ONLINE
+*MAT 170 Digital Illustration 1: Adobe Illustrator
+-ONLINE
+2036    ONL                           KELLEY G      3.0    ONLINE
+-OCEANSIDE CAMPUS                                             Room #
+2034    Th        1:30 pm–5:30 pm     THORNHILL M   3.0   OC 4610
+*MAT 180 Digital Publishing: Adobe InDesign
+-ONLINE
+2032    ONL                           TERRY M       3.0    ONLINE
+*MAT 200 Video 2: Post-Production and Special Effects
+-OCEANSIDE CAMPUS                                             Room #
+2156    W         5:30 pm–9:20 pm     TAYLOR S      3.0   OC 4622
+*MAT 210 Digital Imaging 2: Advanced Photoshop
+-OCEANSIDE CAMPUS                                                    Room #
+2030    TTh      11:30 am–1:20 pm     MALONE J           3.0      OC 4607
+*MAT 225 Web Design: PHP and WordPress
+-ONLINE
+1522    ONL                           COTNOIR L          3.0       ONLINE
+*MAT 290 Portfolio Development
+-OCEANSIDE CAMPUS                                                    Room #
+2532    W         2 pm–4:50 pm        UHLIK/CLEVELAND 3.0         OC 4610
+*MAT 299 Occupational Cooperative Work Experience
+2654    ARRANGED                      STAFF              3.0
+*MAP 100 Introduction to Medical Administrative Careers
+-ONLINE
+1526    ONL                           MCNEAL C           3.0       ONLINE
+*MAP 101 Medical Keyboarding and Document Production
+-ONLINE
+2152    ONL                           MCNEAL C           3.0       ONLINE
+*MAP 102 HIPAA Compliance
+-ONLINE
+1527    ONL                           WEIRATHER A        3.0       ONLINE
+*MAP 104 Medical Coding
+-ONLINE
+1894    ONL                           MOORE J            3.0       ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+2490    T         6:30 pm–9:20 pm     MOORE J            3.0     OC 3205
+*MAP 105 Medical Insurance and Billing
+-OCEANSIDE CAMPUS                                                    Room #
+2384    M         6:30 pm–9:40 pm     MOORE J            3.0      OC T430
+*MAP 110 Introduction to the Electronic Health Record
+-ONLINE
+1528    ONL                           WEIRATHER A        3.0       ONLINE
+*MAP 150 Introduction to Patient Advocacy
+-OCEANSIDE CAMPUS                                                    Room #
+2489    Th        6:30 pm–9:30 pm     EACOTT E           3.0      OC T430
+*MAP 299 Occupational Cooperative Work Experience
+3040    ARRANGED                       STAFF              3
+*MUS 100 Introduction to Music Theory
+-ONLINE
+2876    ONL                            FALKER M           3.0      ONLINE
+1974    ONL                            FALKER M           3.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+2199    MW        12 pm–1:15 pm        CHANG W            3.0     OC 2413
+*MUS 101 Music Theory I
+-OCEANSIDE CAMPUS                                                    Room #
+1529    MW        10:30 am–11:45 am    FALKER M           3.0     OC 2251
+*MUS 102 Music Theory II
+-OCEANSIDE CAMPUS                                                    Room #
+1956    MW        10:30 am–11:45 am    CRATTY W           3.0     OC 2413
+*MUS 103 Musicianship I
+-OCEANSIDE CAMPUS                                                    Room #
+1530    W          8 am–10:05 am       MURESAN B          1.0     OC 2218
+& ONL     +1 hour weekly online.                           ONLINE
+*MUS 104 Musicianship II
+-OCEANSIDE CAMPUS                                                    Room #
+2053    MW         9 am–10:15 am       CRATTY W           1.0     OC 2413
+*MUS 112 American Popular Music
+-ONLINE
+3467    ONL                            SIEGEL D           3.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+3466    Th         2 pm–5 pm           COOBATIS C         3.0     OC 2304
+*MUS 113 The Music of Multicultural America
+-ONLINE
+2322    ONL                            SIEGEL D           3.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+1532    TTh       10:30 am–11:45 am    LOPEZ S            3.0     OC 2413
+*MUS 114 History of Rock and Roll
+-ONLINE
+2200    ONL                           PROPPE J     3.0       ONLINE
+2096    ONL                           PROPPE J     3.0       ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+1533    T         2 pm–4:50 pm        COOBATIS C   3.0      OC 2413
+-SAN ELIJO CAMPUS IN CARDIFF                                     Room #
+3179    T        11 am–1:50 pm        FOSTER E     3.0      SAN 201
+*MUS 115 Introduction to Western Music
+-ONLINE
+1534    ONL                           TOROK S      3.0       ONLINE
+2078    ONL                           TOROK S      3.0       ONLINE
+*MUS 116 A Survey of World Music
+-ONLINE
+1540    ONL                           KHALIL A     3.0       ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+2354    F         8 am–11:50 am       KHALIL A     3.0     OC 2218
+*MUS 119 Jazz History
+-ONLINE
+1541    ONL                           SIEGEL D     3.0       ONLINE
+-OCEANSIDE CAMPUS                                                Room #
+1535    MW       10:30 am–11:45 am    TOROK S      3.0     OC 2218
+*MUS 120 Piano I
+-OCEANSIDE CAMPUS                                                Room #
+1942    MW        9 am–9:50 am        CHANG W      1.0     OC   2251
+2836    TTh       9 am–9:50 am        LISTER-HAYNE 1.0     OC   2251
+2106    Th        3 pm–5 pm           LISTER-HAYNE 1.0     OC   2251
+2201    W         6 pm–8:15 pm        LEE J        1.0     OC   2251
+1954    M         6 pm–8:05 pm        LEE J        1.0     OC 2251
+*MUS 121 Piano II
+-OCEANSIDE CAMPUS                                                Room #
+2838    TTh       9 am–9:50 am        LISTER-HAYNE 1.0     OC   2251
+1944    MW        9 am–9:50 am        CHANG W      1.0     OC   2251
+2840    Th        3 pm–5 pm           LISTER-HAYNE 1.0     OC   2251
+3475    W         6 pm–8:15 pm        LEE J        1.0     OC   2251
+3477    M         6 pm–8:05 pm        LEE J        1.0     OC 2251
+*MUS 128 Piano for Music Majors I
+-OCEANSIDE CAMPUS                                            Room #
+3464     TTh      10:30 am–11:45 am   FALKER M     1.0   OC 2251
+*MUS 129 Piano for Music Majors II
+-OCEANSIDE CAMPUS                                            Room #
+2491     TTh      10:30 am–11:45 am   FALKER M     1.0   OC 2251
+*MUS 130 Guitar I
+-OCEANSIDE CAMPUS                                            Room #
+2832     M         3 pm–5:05 pm       CARTER T     1.0    OC 2218
+1542     W         3 pm–4:50 pm       FOSTER E     1.0    OC 2218
+*MUS 141 Vocal Fundamentals
+-OCEANSIDE CAMPUS                                            Room #
+1536     T         8:30 am–10:20 am   O’BRIEN K    1.0    OC 2413
+2203     Th        6 pm–8 pm          LOPEZ S      1.0    OC 2218
+*MUS 144A Individual Instruction I
+3185     ARRANGED                     LANGAGER A   1.0
+*MUS 144B Individual Instruction II
+3186     ARRANGED                     LANGAGER A   1.0
+*MUS 145A Performance Lab I
+-OCEANSIDE CAMPUS                                            Room #
+3182     F        10 am–11:25 am      LANGAGER A   .5    OC 2406
+*MUS 145B Performance Lab II
+-OCEANSIDE CAMPUS                                            Room #
+3184     F        11:35 am–1 pm       LANGAGER A   .5    OC 2406
+*MUS 150A Contemporary Big Band I
+-OCEANSIDE CAMPUS                                              Room #
+2798     T         6 pm–9:10 pm     TOROK S         1.0    OC 2218
+*MUS 150B Contemporary Big Band II
+-OCEANSIDE CAMPUS                                              Room #
+2799     T         6 pm–9:10 pm     TOROK S         1.0    OC 2218
+*MUS 152A Small Group Jazz Ensemble I
+-OCEANSIDE CAMPUS                                              Room #
+2802     MW       12 pm–2:25 pm     TOROK S         1.5    OC 2218
+*MUS 152B Small Group Jazz Ensemble II
+-OCEANSIDE CAMPUS                                              Room #
+2803     MW       12 pm–2:25 pm     TOROK S         1.5    OC 2218
+*MUS 155A Popular Music Ensemble I
+-OCEANSIDE CAMPUS                                              Room #
+3180     M         6 pm–9:25 pm     CARTER T        1.0    OC 2218
+*MUS 155B Popular Music Ensemble II
+-OCEANSIDE CAMPUS                                              Room #
+3463     M         6 pm–9:25 pm     CARTER T        1.0    OC 2218
+*MUS 161A Concert Chorale I
+*MUS 161, MUS 161A , MUS 161B, MUS 261A , MUS 261B. N ote: N o course
+-OCEANSIDE CAMPUS                                              Room #
+1544     T         6:30 pm–8:40 pm  LANGAGER A      1.0    OC 2406
+*MUS 165A Chamber Choir I
+-OCEANSIDE CAMPUS                                              Room #
+3183     TTh      12 pm–2:25 pm     LANGAGER A      1.5    OC 2406
+*MUS 166A Vocal Jazz Ensemble I
+-OCEANSIDE CAMPUS                                                    Room #
+2797    TTh       3 pm–5:25 pm        FALKER M           1.5     OC 2218
+*MUS 166B Vocal Jazz Ensemble II
+-OCEANSIDE CAMPUS                                                    Room #
+2806    TTh       3 pm–5:25 pm        FALKER M           1.5     OC 2218
+*MUS 170A Symphony Orchestra I
+-OCEANSIDE CAMPUS                                                    Room #
+3181    W         6:30 pm–9:40 pm     MURESAN B          1.0     OC 2406
+*MUS 228 Advanced Piano
+-OCEANSIDE CAMPUS                                                    Room #
+3465    TTh      10:30 am–11:45 am    FALKER M           1.0     OC 2251
+*MUS 229 Jazz/Commercial Piano
+-OCEANSIDE CAMPUS                                                    Room #
+2492    TTh      10:30 am–11:45 am    FALKER M           1.0     OC 2251
+*MUS 244A Individual Instruction III
+3187    ARRANGED                      LANGAGER A         1.0
+*MUS 244B Individual Instruction IV
+3188    ARRANGED                      LANGAGER A         1.0
+*MUS 250A Contemporary Big Band III
+-OCEANSIDE CAMPUS                                               Room #
+2800    T        6 pm–9:10 pm       TOROK S        1.0     OC 2218
+*MUS 250B Contemporary Big Band IV
+-OCEANSIDE CAMPUS                                               Room #
+2801    T        6 pm–9:10 pm       TOROK S        1.0     OC 2218
+*MUS 252A Small Group Jazz Ensemble III
+-OCEANSIDE CAMPUS                                               Room #
+2804    MW      12 pm–2:25 pm       TOROK S        1.5     OC 2218
+*MUS 252B Small Group Jazz Ensemble IV
+-OCEANSIDE CAMPUS                                               Room #
+2805    MW      12 pm–2:25 pm       TOROK S        1.5     OC 2218
+*MUS 260 Songwriting
+-OCEANSIDE CAMPUS                                               Room #
+2811    T        5:30 pm–8:20 pm    COOBATIS C     2.0     OC 2251
+*MUS 266A Vocal Jazz Ensemble III
+-OCEANSIDE CAMPUS                                               Room #
+2807    TTh      3 pm–5:25 pm       FALKER M       1.5     OC 2218
+*MUS 266B Vocal Jazz Ensemble IV
+-OCEANSIDE CAMPUS                                               Room #
+2808    TTh      3 pm–5:25 pm       FALKER M       1.5     OC 2218
+*MTEC 110 Recording Arts I
+-OCEANSIDE CAMPUS                                                     Room #
+2133    Th        1:30 pm–4:30 pm   REEVES D             2.0      OC 2216
+2135    T         5:30 pm–8:20 pm   TRAUGH S             2.0      OC 2216
+2137    M         5:30 pm–8:40 pm   COE W                2.0      OC 2216
+*MTEC 111 Recording Arts II
+-OCEANSIDE CAMPUS                                                     Room #
+2139    T         1:30 pm–4:20 pm   SIEGEL D             2.0      OC 2216
+*MTEC 120 Digital Audio Production I
+-OCEANSIDE CAMPUS                                                     Room #
+2141    W         1:30 pm–4:20 pm   COOBATIS C           2.0      OC 2251
+*MTEC 130 MIDI
+-OCEANSIDE CAMPUS                                                     Room #
+2143    M         1:30 pm–4:40 pm   COOBATIS C           2.0      OC 2251
+*MTEC 140 Sound Reinforcement I
+-OCEANSIDE CAMPUS                                                     Room #
+2145    M         5:30 pm–8:40 pm   COOBATIS C           2.0      OC 2413
+*MTEC 160 Business of Music and Media I
+-OCEANSIDE CAMPUS                                                     Room #
+2147    T         5:30 pm–8:20 pm   SIEGEL D             3.0     OC 2304
+2148    Th        5:30 pm–8:30 pm   SIEGEL D             3.0     OC 2304
+*MTEC 210 Recording Arts III
+-OCEANSIDE CAMPUS                                                     Room #
+2149    W         5:30 pm–8:20 pm   COOBATIS C           2.0      OC 2216
+*MTEC 299 Occupational Cooperative Work Experience
+3041    ARRANGED                    STAFF                3.0
+*NURS 151 Body Systems Survey for Health Professions
+-OCEANSIDE CAMPUS                                                     Room #
+1731    Th        9:30 am–12:30 pm  DAVIS N              3.0      OC T401
+1730    M        10 am–1:10 pm      BARDEN R             3.0      OC T401
+*NURS 155 Basic Medical Terminology
+-ONLINE
+1732    ONL                              SIMPSON S          3.0     ONLINE
+1733    ONL                              BLUNDELL S         3.0     ONLINE
+2618    ONL                              BROWN K            3.0     ONLINE
+*NURS 160 Certified Nursing Assistant
+-OCEANSIDE CAMPUS                                                      Room #
+1736    MT          9 am–12:50 pm        TAM V              6.5   OC 7003
+1734    MT          9 am–1:20 pm         TAM V              6.5   OC 7003
+*NURS 163 Home Health Aide
+-OCEANSIDE CAMPUS                                                      Room #
+3491    W           7 am–1:10 pm         STAFF              2.0   OC 7003
+*NURS 170 Licensed Vocational Nursing I
+-OCEANSIDE CAMPUS                                                      Room #
+3115    T           4 pm–8:20 pm         STAFF              7.5    OC T401
+*NURS 180 Fundamentals of Nursing
+-OCEANSIDE CAMPUS                                                      Room #
+1849    T           9 am–1:05 pm         BURKE D            4.0   OC T430
+*NURS 181 Medical Surgical Nursing I
+-OCEANSIDE CAMPUS                                                      Room #
+1851    T          10 am–12:50 pm        ESSMAN M           4.0   OC T430
+& ONL                                                       ONLINE
+*NURS 182 Maternal-Child Nursing
+-OCEANSIDE CAMPUS                                                      Room #
+1853    M          10 am–12 pm           STAFF              5.0   OC T430
+& ONL                                                       ONLINE
+*NURS 183 Medical Surgical Nursing II
+-OCEANSIDE CAMPUS                                                      Room #
+1855    W          9 am–10:50 am        GARDINER Y          4.0    OC T430
+*NURS 281 Medical Surgical Nursing III
+-OCEANSIDE CAMPUS                                                      Room #
+1738    Th        8 am–9:50 am          SIMPSON S           6.5    OC T430
+& ONL                                                       ONLINE
+*NURS 282 Psychiatric-Mental Health Nursing
+-OCEANSIDE CAMPUS                                                      Room #
+1740    Th         10 am–11:50 am       MCDONALD L          3.5    OC T430
+*NURS 283 Medical Surgical Nursing IV
+1950    ARRANGED                        DUNCAN Y            6.0
+*NURS 284 Contemporary Nursing Practice and Leadership
+-ONLINE
+1948    ONL                             SIMPSON S           1.5     ONLINE
+*NURS 284L Preceptorship Lab
+-OCEANSIDE CAMPUS                                                      Room #
+1949    W         11:15 am–12:10 pm     DUNCAN Y            2.0    OC T430
+*NURS 290 Critical Care
+-OCEANSIDE CAMPUS                                                      Room #
+2048    T          8 am–12:10 pm        GARDINER Y          1.5    OC 4401
+&T         1 pm–2:50 pm                                    OC 4401
+*NURS 299 Occupational Cooperative Work Experience
+2495    ARRANGED                        STAFF               3.
+*NUTR 100 Nutrition Today
+-ONLINE
+1908    ONL                          BASILE T            3.0       ONLINE
+2484    ONL                          PRATT T             3.0       ONLINE
+2097    ONL                          SKODA E             3.0       ONLINE
+2108    ONL                          PRATT T             3.0       ONLINE
+1909    ONL                          SKODA E             3.0       ONLINE
+1906    ONL                          MEINHOLD G          3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1907    T        10:30 am–11:45 am MEINHOLD G            3.0      OC T413
+& ONL    +1 hour 30 minutes weekly online.                 ONLINE
+1905    TTh       3 pm–4:15 pm       SLOMKA C            3.0      OC T413
+*NUTR 105 Human Performance and Sports Nutrition
+-ONLINE
+2076    ONL                          MEINHOLD G          3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+1910    TTh       9 am–10:15 am      MEINHOLD G          3.0      OC T413
+*NUTR 108 Cultural Aspects of Foods and Nutrition
+-OCEANSIDE CAMPUS                                                     Room #
+2002    Th        5:30 pm–8:30 pm    BASILE T            3.0      OC T413
+*NUTR 125 Nutrition and Aging
+-ONLINE
+2260    ONL                          MEINHOLD G          3.0       ONLINE
+*NUTR 299 Occupational Cooperative Work Experience
+3042    ARRANGED                     STAFF               3.0
+*OCEA 101 Introduction to Oceanography
+-ONLINE
+1548    ONL                          MELDAHL K           3.0       ONLINE
+1561    ONL                          MELDAHL K           3.0       ONLINE
+1559    ONL                          MELDAHL K           3.0       ONLINE
+1549    ONL                          GARZA J             3.0       ONLINE
+1551    ONL                          GOMES C             3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+2163    MW        7:30 am–8:45 am    BECK S              3.0      OC 4529
+1550    TTh       7:30 am–8:45 am    EASTMOND D          3.0      OC 4529
+1553    TTh       9 am–10:15 am      EASTMOND D          3.0      OC 4529
+2005    MW       12 pm–1:15 pm       STAFF               3.0      OC 4529
+1554    TTh       4:40 pm–5:55 pm    RECTOR R            3.0      OC 4529
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+2410    TTh      10:30 am–11:45 am   SCHUBEL K           3.0      SAN  406
+1973    MW       10:30 am–11:45 am   FALERO R            3.0      SAN  406
+1552    MW       12 pm–1:15 pm       FALERO R            3.0      SAN  406
+1562    TTh      12 pm–1:15 pm       SCHUBEL K           3.0      SAN  406
+*OCEA 101L Introductory Oceanography Laboratory
+-OCEANSIDE CAMPUS                                                   Room #
+1560    T         1:30 pm–4:20 pm     RECTOR R          1.0     OC 4529
+1557    Th        1:30 pm–4:30 pm     RECTOR R          1.0     OC 4529
+1558    F         1:30 pm–4:30 pm     EASTMOND D        1.0     OC 4529
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+1556    W         1:30 pm–4:20 pm     STOFFER P         1.0    SAN 1002
+1555    M         1:30 pm–4:40 pm     MELDAHL K         1.0    SAN 1002
+*PHAR 100 Basic Pharmacology—Dosages and Calculations
+-OCEANSIDE CAMPUS                                                   Room #
+1564    W         6:30 pm–9:20 pm     KOLT T            3.0     OC T430
+1563    T         6:30 pm–9:20 pm     KOLT T            3.0     OC T430
+*PHAR 201 Pharmacology Review and Update
+-OCEANSIDE CAMPUS                                                   Room #
+2376    M         1:30 pm–3:35 pm     BARDEN R          2.0     OC T430
+*PHIL 100 Critical Thinking
+-ONLINE
+1573    ONL                           MOON    L         3.0      ONLINE
+1959    ONL                           MOON    L         3.0      ONLINE
+2006    ONL                           MOON    L         3.0      ONLINE
+2730    ONL                           MOON    L         3.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1569    MW        7:30 am–8:45 am     BRADLEY C         3.0     OC 3106
+1817    F         9 am–12 pm          BRADLEY C         3.0     OC 3106
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+1570    TTh      12 pm–1:15 pm        LUENGO I          3.0     SAN 306
+*PHIL 101 Introduction to Philosophy: Knowledge & Reality
+-ONLINE
+1571    ONL                           LUENGO I          3.0      ONLINE
+1567    ONL                           LUENGO I          3.0      ONLINE
+2631    ONL                           LUENGO I          3.0      ONLINE
+*PHIL 101 Introduction to Philosophy: Knowledge & Reality (continued)
+-OCEANSIDE CAMPUS                                                  Room #
+1566      M         6 pm–7:50 pm        MOON L         3.0    OC 3106
+& ONL    +2 hours weekly online.                      ONLINE
+1565      TTh       1:30 pm–2:45 pm     MILLER G       3.0    OC 3106
+-SAN ELIJO CAMPUS IN CARDIFF                                       Room #
+2227      F         9 am–12 pm          THOMPSON J     3.0     SAN 306
+*PHIL 101H Introduction to Philosophy: Knowledge & Reality (Honors)
+-OCEANSIDE CAMPUS                                                  Room #
+3172      TTh       9 am–10:15 am       LUENGO I       3.0     SAN 202
+*PHIL 102 Contemporary Moral Problems
+-ONLINE
+2080      ONL                           THOMPSON J     3.0      ONLINE
+-OCEANSIDE CAMPUS                                                  Room #
+2316      TTh      12 pm–1:15 pm        MILLER G       3.0    OC 3106
+-SAN ELIJO CAMPUS IN CARDIFF                                       Room #
+1568      MW        1:30 pm–3:05 pm     THOMPSON J     3.0     SAN 306
+*PHIL 110 Introduction to Logic
+-OCEANSIDE CAMPUS                                                  Room #
+3173      MW       12 pm–1:15 pm        LUENGO I       3.0    OC 3106
+*PHIL 221 Philosophy of Religion
+-OCEANSIDE CAMPUS                                                  Room #
+1574      TTh       9 am–10:15 am       MILLER G       3.0    OC 3106
+*PHSN 106 Introduction to Physical Science: Physics and Chemistry
+-ONLINE
+2781      ONL                           BOLANOS T      3.0      ONLINE
+-OCEANSIDE CAMPUS                                                  Room #
+2321      MW        1:30 pm–2:45 pm     BOLANOS T      3.0    OC 3609
+*PHSN 106L Introduction to Physical Science: Physics and Chemistry
+-OCEANSIDE CAMPUS                                                  Room #
+3114      W         3:10 pm–6 pm        BOLANOS T      1.0    OC 4505
+*PHSN 108H Introduction to Climate Change (Honors)
+-OCEANSIDE CAMPUS                                                    Room #
+3104    TTh      9 am–10:15 am       COLE J             3.0      OC 3102
+*PHYS 111 Introductory Physics I
+-OCEANSIDE CAMPUS                                                    Room #
+1575    TTh      6 pm–7:15 pm        SALAMON J          4.0      OC 4526
+& TTh    7:30 pm–8:45 pm                                 OC 4526
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+2411    MW       6 pm–7:15 pm        HAAVIG L           4.0      SAN 502
+& MW     7:30 pm–8:45 pm                                 SAN 502
+*PHYS 151 Principles of Physics I
+-OCEANSIDE CAMPUS                                                    Room #
+2089    F        9 am–12:05 pm       PETERS E           4.0      OC 4526
+& ONL   +3 hours weekly online.                           ONLINE
+2413    MW       9 am–10:15 am       HIRANO C           4.0      OC 4526
+& MW    10:30 am–11:45 am                                OC 4526
+2746    F       12:15 pm–3:20 pm     PETERS E           4.0      OC 4526
+& ONL   +3 hours weekly online.                           ONLINE
+1577    TTh      3 pm–4:15 pm        HAAVIG D           4.0      OC 4526
+& TTh    4:30 pm–5:45 pm                                 OC 4526
+1581    MW       6 pm–7:15 pm        BROWNELL D         4.0      OC 4526
+& MW     7:30 pm–8:45 pm                                 OC 4526
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+2874    TTh      7:30 am–8:45 am     MARKEY J           4.0      SAN 502
+& TTh    9 am–10:15 am                                   SAN 502
+1585    MW      10:30 am–11:45 am    PETERS E           4.0      SAN 502
+& MW    12 pm–1:15 pm                                    SAN 502
+2620    MW       3 pm–4:15 pm        SALAMON J          4.0      SAN 502
+& MW     4:30 pm–5:45 pm                                 SAN 502
+*PHYS 152 Principles of Physics II
+-OCEANSIDE CAMPUS                                                    Room #
+1583    MW       3 pm–4:15 pm        COLE J             4.0      OC 4526
+& MW     4:30 pm–5:45 pm                                 OC 4526
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1885    TTh     10:30 am–11:45 am    COTA L             4.0      SAN 502
+& TTh   12 pm–1:15 pm                                    SAN 502
+2809    TTh      3 pm–4:15 pm        REYZER K           4.0      SAN 502
+& TTh    4:30 pm–5:45 pm                                 SAN 502
+*PHYS 253 Principles of Physics III
+-OCEANSIDE CAMPUS                                                    Room #
+1579    TTh      9 am–10:15 am       SALAMON J          4.0      OC 4526
+& TTh   10:30 am–11:45 am                                OC 4526
+*PLSC 101 Introduction to Political Science
+-OCEANSIDE CAMPUS                                                    Room #
+1588    TTh      10:30 am–11:45 am    CASTANEDA G       3.0     OC 3104
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1587    MW        9 am–10:15 am       CASTANEDA G       3.0     SAN 201
+*PLSC 102 American Institutions and History
+-ONLINE
+2640    ONL                           STAFF             4.0      ONLINE
+1818    ONL                           CEMO J            4.0      ONLINE
+2095    ONL                           STAFF             4.0      ONLINE
+2415    ONL                           PERRY R           4.0      ONLINE
+1887    ONL                           CEMO J            4.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+1589    MW        7 am–8:50 am        BYRON M           4.0     OC   3104
+2417    S         8 am–12:05 pm       HUYCK K           4.0     OC   3104
+1590    MW        9 am–10:50 am       CHIRRA J          4.0     OC   3104
+1591    MW        1:30 pm–3:20 pm     CHIRRA J          4.0     OC   3104
+1592    TTh       1:30 pm–3:20 pm     BRECKON J         4.0     OC   3104
+1593    TTh       3:30 pm–5:20 pm     BRECKON J         4.0     OC   3104
+2416    W         6 pm–9:50 pm        HUYCK K           4.0     OC   3104
+2457    T         6 pm–9:50 pm        THOMPSON K        4.0     OC   3104
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1594    MW       11 am–12:50 pm       CASTANEDA G       4.0     SAN 201
+3103    TTh       3:30 pm–5:20 pm     PERRY R           4.0     SAN 303
+1596    Th        6 pm–10 pm          THOMPSON K        4.0     SAN 303
+*PLSC 103 Comparative Government
+-OCEANSIDE CAMPUS                                                    Room #
+1595    TTh       9 am–10:15 am       BYRON M           3.0     OC 3104
+*PLSC 150 Introduction to International Relations
+-OCEANSIDE CAMPUS                                                    Room #
+1819    TTh       7:30 am–8:45 am     BYRON M           3.0     OC 3104
+*PSYC 100 Psychology of Personal Growth
+-ONLINE
+2474    ONL                           CORONADO C        3.0      ONLINE
+1605    ONL                           DRECUN A          3.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+1597    MW        7:30 am–8:45 am     CORONADO C        3.0     OC 3201
+1599    TTh       9 am–10:15 am       HAWKINS W         3.0     OC 3201
+1601    TTh      12 pm–1:15 pm        MCFIELD D         3.0     OC 3201
+1598    MW       12 pm–1:15 pm        CURTISS W         3.0     OC 3101
+1602    MW        1:30 pm–2:45 pm     CURTISS W         3.0     OC 3101
+1600    MW        4:30 pm–5:45 pm     ASHLYN J          3.0     OC 3101
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1604    TTh      10:30 am–11:45 am    ARIADNE P         3.0     SAN 505
+1603    MW        1:30 pm–2:45 pm     GRIFFIN G         3.0     SAN 505
+*PSYC 101 General Psychology
+-ONLINE
+2208    ONL                           FAST L           3.0      ONLINE
+1634    ONL                           FAST L           3.0      ONLINE
+1613    ONL                           FAST L           3.0      ONLINE
+2475    ONL                           YERUSHALMIAN     3.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1606    TTh       7:30 am–8:45 am     RICCI J          3.0     OC 3101
+1607    MW        9 am–10:15 am       YERUSHALMIAN     3.0     OC 3201
+1608    MW       12 pm–1:15 pm        TAYLOR L         3.0     OC 3201
+2527    MW        1:30 pm–2:45 pm     BETTENCOURT      3.0     OC 3102
+1612    TTh       1:30 pm–2:45 pm     HEPBURN B        3.0     OC 4801
+2397    MW        3 pm–4:15 pm        BETTENCOURT      3.0     OC 3101
+1609    TTh       3 pm–4:15 pm        HEPBURN B        3.0     OC 3205
+1610    M         6 pm–9:10 pm        GONZALEZ P       3.0     OC 3201
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+2228    F         9 am–12 pm          SMILO P          3.0     SAN 505
+1618    MW        9 am–10:15 am       GRIFFIN G        3.0     SAN 505
+1611    TTh      12 pm–1:15 pm        SMILO P          3.0     SAN 505
+*PSYC 101H General Psychology (Honors)
+-OCEANSIDE CAMPUS                                                   Room #
+3117    TTh      10:30 am–11:45 am    FAST L           3.0     OC 3106
+*PSYC 103 Social Psychology
+-OCEANSIDE CAMPUS                                                   Room #
+1621    MW       12 pm–1:15 pm        GONZALEZ P       3.0     OC 3205
+1622    T         6:30 pm–9:20 pm     NIUATOA A        3.0     OC 3101
+*PSYC 104 Statistics for Behavioral Science
+-OCEANSIDE CAMPUS                                                   Room #
+1624    TTh       3 pm–4:15 pm        ESO S            4.0    OC 4803B
+& ONL    +1 hour weekly online.                         ONLINE
+-ONLINE
+2718    ONL                           MCPHERSON B      4.0      ONLINE
+2717    ONL                           MULHOLLAND M     4.0      ONLINE
+2774    ONL                           YERUSHALMIAN     4.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1625    W         6 pm–8:50 pm        HALLETT M        4.0     OC 4607
+& ONL    +1 hour weekly online.                         ONLINE
+1623    MW       10:30 am–11:45 am ESO S               4.0     OC 4610
+& ONL    +1 hour weekly online.                         ONLINE
+*PSYC 104 Statistics for Behavioral Science (continued)
+-OCEANSIDE CAMPUS                                                   Room #
+2753    MW       12 pm–1:15 pm        WILLIAMS E       4.0     OC 4610
+& ONL    +1 hour weekly online.                         ONLINE
+2528    TTh       7:30 am–8:45 am     MARSHALL S       4.0    OC 4803B
+& ONL    +1 hour weekly online.                         ONLINE
+2238    F         9 am–11:50 am       BOURDAGES J      4.0    OC 4803B
+& ONL    +1 hour weekly online.                         ONLINE
+2252    TTh       9 am–10:50 am       HOSKINS B        4.0    OC 4803B
+2476    MW        9 am–10:50 am       ALLYN R          4.0     OC T541
+2716    TTh      11 am–12:50 pm       HOSKINS B        4.0    OC 4803B
+1632    TTh       1:30 pm–3:20 pm     PATTON G         4.0     OC T541
+2348    MW        1:30 pm–3:20 pm     MCFIELD D        4.0     OC T541
+2007    TTh       3:30 pm–5:20 pm     PATTON G         4.0     OC T541
+2477    MW        3:30 pm–5:20 pm     MCFIELD D        4.0     OC T541
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+2398    MW        9 am–10:15 am       ASHLYN J         4.0     SAN 108
+& ONL    +1 hour weekly online.                         ONLINE
+2529    MW        6 pm–7:15 pm        BEAL R           4.0     SAN 108
+& ONL    +1 hour weekly online.                         ONLINE
+1626    TTh       9 am–10:50 am       BYRD K           4.0     SAN 108
+1627    TTh      11 am–12:50 pm       BYRD K           4.0     SAN 108
+2754    TTh       1:30 pm–3:20 pm     MARSHALL S       4.0     SAN 108
+*PSYC 114 Abnormal Psychology
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+1614    M         6:30 pm–9:40 pm     DOW H            3.0     SAN 505
+*PSYC 115 Human Sexuality
+-OCEANSIDE CAMPUS                                                   Room #
+1633    TTh       7:30 am–8:45 am     HAWKINS W        3.0     OC 3205
+1615    MW        1:30 pm–2:45 pm     TAYLOR L         3.0     OC 3103
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+1616    MW       10:30 am–11:45 am    BYRD K           3.0     SAN 108
+*PSYC 121 Human Development
+-ONLINE
+2009    ONL                           OBERG A          3.0      ONLINE
+2099    ONL                           DELAROSA G       3.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+1620    TTh      10:30 am–11:45 am CRAIG R             3.0     OC 3102
+& ONL    +45 minutes weekly online.                     ONLINE
+1631    TTh      10:30 am–11:45 am OLSON BERMUD        3.0     OC 3201
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+1619    MW        3 pm–4:15 pm        GRIFFIN G        3.0     SAN 505
+*PSYC 145 Psychology/Sociology of the Family
+-OCEANSIDE CAMPUS                                                   Room #
+1628    TTh       1:30 pm–2:45 pm     STAFF            3.0     OC 3201
+*PSYC 205 Research Methods in Psychology
+-OCEANSIDE CAMPUS                                                     Room #
+2757    TTh       1:30 pm–2:45 pm     ESO S              3.0    OC 4803B
+& ONL    +2 hours weekly online.                           ONLINE
+1629    M         6 pm–8:50 pm        MCPHERSON B        3.0      OC 4607
+& ONL    +2 hours weekly online.
+1821    MW        9 am–10:15 am       ESO S              3.0      OC 4610
+& ONL    +2 hours weekly online.
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+2776    MW       12 pm–2:20 pm        BYRD K             3.0      SAN 108
+*PSYC 260 Physiological Psychology
+-ONLINE
+1617    ONL                           FAST L             3.0       ONLINE
+*PSYC 299 Occupational Cooperative Work Experience
+2653    ARRANGED                      STAFF              3.
+*READ 100 Critical Reading and Thinking
+-OCEANSIDE CAMPUS                                                     Room #
+1637    TTh       9 am–10:15 am       RAWLEIGH L         3.0      OC 3607
+2270    MW        1:30 pm–2:45 pm     RAWLEIGH L         3.0      OC 3607
+1636    T         6 pm–8:50 pm        RAWLEIGH L         3.0      OC 3607
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1635    TTh      10:30 am–11:45 am    ONOFREY K          3.0      SAN 203
+*RELG 101 World Religions
+-ONLINE
+2131    ONL                           MURICO J           3.0       ONLINE
+2129    ONL                           MURICO J           3.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+2126    MW        9 am–10:15 am       STAFF              3.0      OC 3106
+-ONLINE
+2130    ONL                           MURICO J           3.0       ONLINE
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+2128    TTh      10:30 am–11:45 am    IAMMARINO D        3.0      SAN 306
+*RELG 103 Religion in America
+-OCEANSIDE CAMPUS                                           Room #
+3171    MW      10:30 am–11:45 am   MURICO J    3.0    OC 3106
+*RELG 105 Eastern Religions
+-ONLINE
+2375    ONL                         SCOTT JAMES 3.0     ONLINE
+-OCEANSIDE CAMPUS                                           Room #
+2132    MW       1:30 pm–2:45 pm    MURICO J    3.0    OC 3106
+*SOC 101 Introduction to Sociology
+-ONLINE
+1641    ONL                         DAVIS S     3.0     ONLINE
+2003    ONL                         ALLYN R     3.0     ONLINE
+2494    ONL                         TROUSSET N  3.0     ONLINE
+2493    ONL                         NIUATOA A   3.0     ONLINE
+2098    ONL                         DAVIS S     3.0     ONLINE
+2004    ONL                         LOPEZ A     3.0     ONLINE
+1640    ONL                         DAVIS S     3.0     ONLINE
+-OCEANSIDE CAMPUS                                           Room #
+1962    F        9 am–12 pm         WILLIAMS E  3.0    OC 3201
+1666    TTh      9 am–10:15 am      STAFF       3.0    OC 3101
+1649    TTh     10:30 am–11:45 am   WILLIAMS E  3.0    OC 3101
+1647    MW      10:30 am–11:45 am   HOSKINS B   3.0    OC 3201
+1644    TTh     12 pm–1:15 pm       LOPEZ A     3.0    OC 3101
+1664    MW       1:30 pm–2:45 pm    HOSKINS B   3.0    OC 3201
+1645    TTh      1:30 pm–2:45 pm    STAFF       3.0    OC 3101
+1650    MW       3 pm–4:15 pm       LOPEZ A     3.0    OC 3103
+1646    W        6:30 pm–9:20 pm    NIUATOA A   3.0    OC 3101
+-SAN ELIJO CAMPUS IN CARDIFF                                Room #
+1642    TTh      9 am–10:15 am      DAVIS S     3.0    SAN 505
+1643    MW      12 pm–1:15 pm       TROUSSET N  3.0    SAN 505
+*SOC 102 Contemporary Social Problems
+-OCEANSIDE CAMPUS                                           Room #
+1651    TTh     12 pm–1:15 pm       STAFF       3.0    OC 3205
+-SAN ELIJO CAMPUS IN CARDIFF                                Room #
+2636    MW      10:30 am–11:45 am   TROUSSET N  3.0    SAN 505
+*SOC 103 Social Psychology
+-OCEANSIDE CAMPUS                                           Room #
+1652    MW      12 pm–1:15 pm       GONZALEZ P  3.0    OC 3205
+1653    T        6:30 pm–9:20 pm    NIUATOA A   3.0    OC 3101
+*SOC 104 Statistics for Behavioral Science
+-ONLINE
+2775    ONL                           YERUSHALMIAN     4.0      ONLINE
+1655    ONL                           MULHOLLAND M     4.0      ONLINE
+1661    ONL                           MCPHERSON B      4.0      ONLINE
+-OCEANSIDE CAMPUS                                                   Room #
+2239    F         9 am–11:50 am       BOURDAGES J      4.0    OC 4803B
+& ONL    +1 hour weekly online.                         ONLINE
+1656    TTh       7:30 am–8:45 am     MARSHALL S       4.0    OC 4803B
+& ONL    +1 hour weekly online.                         ONLINE
+1660    TTh       3 pm–4:15 pm        ESO S            4.0    OC 4803B
+& ONL    +1 hour weekly online.                         ONLINE
+2349    MW       10:30 am–11:45 am ESO S               4.0     OC 4610
+& ONL    +1 hour weekly online.                         ONLINE
+2592    W         6 pm–8:50 pm        HALLETT M        4.0     OC 4607
+& ONL    +1 hour weekly online.                         ONLINE
+2755    MW       12 pm–1:15 pm        WILLIAMS E       4.0     OC 4610
+& ONL    +1 hour weekly online.                         ONLINE
+1659    TTh       9 am–10:50 am       HOSKINS B        4.0    OC 4803B
+1654    MW        9 am–10:50 am       ALLYN R          4.0     OC T541
+2253    TTh      11 am–12:50 pm       HOSKINS B        4.0    OC 4803B
+2478    TTh       1:30 pm–3:20 pm     PATTON G         4.0     OC T541
+1665    MW        1:30 pm–3:20 pm     MCFIELD D        4.0     OC T541
+2479    MW        3:30 pm–5:20 pm     MCFIELD D        4.0     OC T541
+2008    TTh       3:30 pm–5:20 pm     PATTON G         4.0     OC T541
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+1658    MW        9 am–10:15 am       ASHLYN J         4.0     SAN 108
+& ONL    +1 hour weekly online.                         ONLINE
+1657    MW        6 pm–7:15 pm        BEAL R           4.0     SAN 108
+& ONL    +1 hour weekly online.                         ONLINE
+2399    TTh       9 am–10:50 am       BYRD K           4.0     SAN 108
+2593    TTh      11 am–12:50 pm       BYRD K           4.0     SAN 108
+2756    TTh       1:30 pm–3:20 pm     MARSHALL S       4.0     SAN 108
+*SOC 105 Introduction to Justice Studies
+-OCEANSIDE CAMPUS                                                   Room #
+1662    TTh       3 pm–4:15 pm        BLUNT T          3.0     OC 3101
+*SOC 120 Introduction to Women’s Studies
+-OCEANSIDE CAMPUS                                                   Room #
+1648    MW        1:30 pm–2:45 pm     ALLYN R          3.0     OC 3205
+*SOC 130 Introduction to Gender Studies
+-SAN ELIJO CAMPUS IN CARDIFF                                        Room #
+2544    TTh      12 pm–1:15 pm        DAVIS S          3.0     SAN 302
+*SOC 140 Introduction to LGBT Studies
+-OCEANSIDE CAMPUS                                                   Room #
+2721    MW        9 am–10:15 am       DAVIS S          3.0     OC 3101
+*SOC 145 Psychology/Sociology of the Family
+-OCEANSIDE CAMPUS                                                     Room #
+1663    TTh       1:30 pm–2:45 pm     STAFF              3.0      OC 3201
+*SOC 207 Race and Ethnic Relations
+-OCEANSIDE CAMPUS                                                     Room #
+1891    TTh       1:30 pm–2:45 pm     LOPEZ A            3.0     OC 3205
+*SOC 230 Introduction to Chicana/o Studies
+-OCEANSIDE CAMPUS                                                     Room #
+2269    MW        9 am–10:15 am       LOPEZ A            3.0     OC 3205
+*SOC 299 Occupational Cooperative Work Experience
+3044    ARRANGED                      STAFF              3.0
+*SPAN 101 Elementary Spanish (First Semester)
+-ONLINE
+1897    ONL                           HERNANDEZ P        4.0       ONLINE
+2638    ONL                           GOMEZ-CARLSS       4.0       ONLINE
+1978    ONL                           VIDAL L            4.0       ONLINE
+2350    ONL                           PETRI A            4.0       ONLINE
+2865    ONL                           GOMEZ-CARLSS       4.0       ONLINE
+1709    ONL                           HERNANDEZ P        4.0       ONLINE
+-OCEANSIDE CAMPUS                                                     Room #
+2104    F         9 am–11:50 am       DIAZ C             4.0      OC 3515
+& ONL    +2 hours weekly online.                           ONLINE
+1711    MW        7 am–9:20 am        CARSLAKE J         4.0      OC 3515
+1667    MTWTh     7:30 am–8:40 am     WESTLAKE O         4.0     OC 3504
+1713    MW        9:30 am–11:50 am    VIDAL L            4.0      OC 3515
+1671    MW       12 pm–2:20 pm        WESTLAKE O         4.0     OC 3504
+1703    MW        2:30 pm–4:50 pm     SALLABERRY C       4.0      OC 3515
+1677    TTh       2:30 pm–4:50 pm     VARGAS O           4.0      OC 3515
+2486    MW        4 pm–6:20 pm        RODRIGUEZ L        4.0      OC T402
+2307    MW        5 pm–7:20 pm        BACA M             4.0      OC 3515
+1701    TTh       5 pm–7:20 pm        CAVALLINI A        4.0     OC 3504
+1673    TTh       6:30 pm–8:50 pm     KEMP LOPEZ D       4.0      OC T307
+-SAN ELIJO CAMPUS IN CARDIFF                                          Room #
+1669    TTh       7 am–9:20 am        WOODARD C          4.0      SAN  309
+1675    MW        9:30 am–11:50 am    APPLEGATE L        4.0      SAN  309
+1715    TTh      12 pm–2:20 pm        GILROY F           4.0      SAN  309
+1699    MW        6 pm–8:20 pm        PAZ R              4.0      SAN  309
+*SPAN 102 Elementary Spanish (Second Semester)
+-ONLINE
+1697    ONL                           VIDAL L            4.0      ONLINE
+1931    ONL                           MARQUES D          4.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+2195    F         9 am–11:50 am       MENDOZA P          4.0     OC 3504
+& ONL    +2 hours weekly online.                          ONLINE
+1707    TTh       7 am–9:20 am        CARSLAKE J         4.0     OC 3515
+1681    MW       12 pm–2:20 pm        SALLABERRY C       4.0     OC 3515
+1691    TTh       6:30 pm–8:50 pm     BACA M             4.0     OC T402
+-ONLINE
+1705    ONL                           MENDOZA P          4.0      ONLINE
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1683    TTh       9:30 am–11:50 am    WOODARD C          4.0     SAN 309
+1679    MW       12 pm–2:20 pm        OCAMPO M           4.0     SAN 309
+*SPAN 160 Spanish for Health Care Providers I
+-OCEANSIDE CAMPUS                                                    Room #
+3087    W         5 pm–7:15 pm        ALVAREZ F          2.0     OC 3504
+*SPAN 201 Intermediate Spanish (Third Semester)
+-ONLINE
+2081    ONL                           MARQUES D          4.0      ONLINE
+2083    ONL                           VIDAL L            4.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+1685    TTh      2:30 pm–4:50 pm      SCHUSTER C         4.0     OC 3504
+1687    MW        2:30 pm–4:50 pm     ALVAREZ F          4.0     OC 3504
+2318    TTh       5 pm–7:20 pm        ALVAREZ F          4.0     OC 3515
+-SAN ELIJO CAMPUS IN CARDIFF                                         Room #
+1695    TTh       2:30 pm–4:50 pm     MCCRARY KAMB       4.0     SAN 309
+*SPAN 202 Intermediate Spanish (Fourth Semester)
+-OCEANSIDE CAMPUS                                                    Room #
+1693    TTh      12 pm–2:20 pm        ALVAREZ F          4.0     OC 3515
+*SPAN 203 Spanish for Native Speakers
+-ONLINE
+1689    ONL                           VIRAMONTES R       4.0      ONLINE
+-OCEANSIDE CAMPUS                                                    Room #
+2545    TTh       9:30 am–11:50 am    VIRAMONTES R       4.0     OC 3504
+*SPAN 299 Occupational Cooperative Work Experience
+3043    ARRANGED                         STAFF               3.0
+*SURG 105L Clinical Practice for Surgical Technology
+-OCEANSIDE CAMPUS                                                         Room #
+1837    F           9 am–12:50 pm        BATISTA-EDWA        11.0    OC 4408
+*WKEX 233 General Cooperative Work Experience
+2357    ARRANGED                         WILCOX D            1.0
+2085    ARRANGED                         LEE H               3.0
+2094    ARRANGED                         WOODARD J           2.0
+2087    ARRANGED                         BLAND S             1.0
+2086    ARRANGED                         MOBERLY J           2.0
